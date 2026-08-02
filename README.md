@@ -63,6 +63,18 @@ moves the ranking.
   a poor location, or a condition problem the listing does not show.
 - **Missing variables.** Condition, street quality, school zone, and
   renovation history are not in the data and are not inferable from it.
+  **Requires inventory volume.** The method needs enough active
+  listings per zip to form meaningful peer groups and estimate
+  neighborhood effects. Highland Park, TX returned 32 total active
+  listings across 3 zips, with a price range from $395K to $21.5M.
+  No parameter choice makes that modelable. Small, exclusive, or
+  low-turnover markets fall outside the tool's domain.
+- **Assumes structure drives price.** Size and age are the primary
+  inputs, which holds where the house is the asset. In markets where
+  buyers are primarily purchasing land, scarcity, or access, and the
+  structure is incidental or slated for teardown, the model is
+  measuring the wrong thing. An age penalty is actively wrong where
+  age carries a premium.
 
 ## Stack
 
