@@ -3,9 +3,8 @@ import sys
 import statistics
 from collections import defaultdict
 
-INPUT = "data/processed/listings_clean.csv"
-OUTPUT = "data/processed/listings_scored.csv"
-FLAGGED = "data/processed/listings_flagged.csv"
+PROCESSED_DIR = "data/processed"
+DEFAULT_MARKET = "lubbock"
 
 MIN_GROUP_SIZE = 5
 OUTLIER_FLOOR = 0.60  # ppsf below this share of zip median = suspect
@@ -43,8 +42,9 @@ NUMERIC = [
 ]
 
 
-def load():
-    with open(INPUT) as f:
+def load(market):
+    path = f"{PROCESSED_DIR}/{market}_clean.csv"
+    with open(path) as f:
         rows = list(csv.DictReader(f))
     for r in rows:
         for k in NUMERIC:
@@ -192,9 +192,12 @@ def compare_regimes(row_groups):
 
 
 def main():
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    market = (args[0] if args else DEFAULT_MARKET).lower()
     compare = "--compare" in sys.argv
 
-    rows = load()
+    print(f"Market: {market}")
+    rows = load(market)
     print(f"Loaded {len(rows)} listings")
 
     row_groups, all_flagged, thin = build_groups(rows)
@@ -210,18 +213,21 @@ def main():
 
     scored = run_regime(row_groups, REGIME)
 
+    output = f"{PROCESSED_DIR}/{market}_scored.csv"
+    flagged_path = f"{PROCESSED_DIR}/{market}_flagged.csv"
+
     fields = list(scored[0].keys())
-    write(OUTPUT, scored, fields)
+    write(output, scored, fields)
 
     if all_flagged:
         all_flagged.sort(key=lambda r: r["pricePerSqft"])
-        write(FLAGGED, all_flagged, [
+        write(flagged_path, all_flagged, [
             "formattedAddress", "zipCode", "price", "squareFootage",
             "pricePerSqft", "yearBuilt", "daysOnMarket", "flagReason",
         ])
 
-    print(f"\nWrote {OUTPUT}")
-    print(f"Wrote {FLAGGED}")
+    print(f"\nWrote {output}")
+    print(f"Wrote {flagged_path}")
     print(f"\nTop 10 under '{REGIME}' weights {WEIGHTS[REGIME]}:")
     print_table(scored)
 
