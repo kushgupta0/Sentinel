@@ -15,6 +15,15 @@ OUTLIER_FLOOR = 0.60  # ppsf below this share of zip median = suspect
 # through time on market and price cuts. Those signals get more weight.
 # Hot market: everything moves fast, so DOM and cuts carry little
 # information and raw relative value dominates.
+#
+# Set to "soft" based on FRED MSACSR (months supply of new houses),
+# which read 9.30 as of 2026-06-01, against a conventional buyers-market
+# threshold of 7.0. Mortgage rates (MORTGAGE30US) were 6.66% as of
+# 2026-07-30, up 0.30 year over year. See macro.py and data/macro/.
+#
+# This is a national figure standing in for local conditions. Proper
+# regime detection requires a historical baseline for each market,
+# which needs multiple snapshots per city.
 REGIME = "soft"
 
 WEIGHTS = {
