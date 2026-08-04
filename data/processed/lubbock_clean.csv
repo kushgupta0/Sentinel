@@ -1,0 +1,299 @@
+id,formattedAddress,zipCode,propertyType,listingType,bedrooms,bathrooms,squareFootage,lotSize,yearBuilt,price,daysOnMarket,pricePerSqft,lotRatio,priceEventCount,totalPriceChangePct,priceCuts
+"5526-Lehigh-St,-Lubbock,-TX-79416","5526 Lehigh St, Lubbock, TX 79416",79416,Townhouse,Standard,2,2,1407,3049,2021,185000,333,131.49,0.4615,1,0.0,0
+"5227-Lehigh-St,-Lubbock,-TX-79416","5227 Lehigh St, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1774,6534,2016,282800,325,159.41,0.2715,3,-2.48,2
+"2615-113th-St,-Lubbock,-TX-79423","2615 113th St, Lubbock, TX 79423",79423,Townhouse,Standard,2,2,1459,4792,2016,187500,343,128.51,0.3045,2,-1.32,1
+"5303-Lehigh-St,-Lubbock,-TX-79416","5303 Lehigh St, Lubbock, TX 79416",79416,Single Family,Standard,4,2,2171,6534,2018,295000,334,135.88,0.3323,1,0.0,0
+"2911-135th-St,-Lubbock,-TX-79423","2911 135th St, Lubbock, TX 79423",79423,Single Family,New Construction,4,2,2165,6970,2025,353000,347,163.05,0.3106,1,0.0,0
+"3511-105th-St,-Lubbock,-TX-79423","3511 105th St, Lubbock, TX 79423",79423,Single Family,Standard,3,2,1741,7405,1998,269900,348,155.03,0.2351,1,0.0,0
+"7012-12th-St,-Lubbock,-TX-79416","7012 12th St, Lubbock, TX 79416",79416,Single Family,Standard,4,2,1613,5663,2022,249500,341,154.68,0.2848,3,-3.85,2
+"2812-Emory-St,-Lubbock,-TX-79415","2812 Emory St, Lubbock, TX 79415",79415,Single Family,Standard,2,1,720,6970,1943,35000,339,48.61,0.1033,1,0.0,0
+"2414-Baylor-St,-Lubbock,-TX-79415","2414 Baylor St, Lubbock, TX 79415",79415,Single Family,Standard,1,1,792,8102,1929,69999,250,88.38,0.0978,1,0.0,0
+"4909-116th-St,-Lubbock,-TX-79424","4909 116th St, Lubbock, TX 79424",79424,Single Family,Standard,4,4.5,4676,11326,2021,1299000,312,277.8,0.4129,1,0.0,0
+"4217-E-63rd-St,-Lubbock,-TX-79403","4217 E 63rd St, Lubbock, TX 79403",79403,Single Family,Standard,3,2.5,1205,7405,1953,158000,306,131.12,0.1627,1,0.0,0
+"4616-143rd-St,-Lubbock,-TX-79424","4616 143rd St, Lubbock, TX 79424",79424,Single Family,New Construction,4,4,3205,9583,2025,764999,304,238.69,0.3344,1,0.0,0
+"8305-4th-St,-Lubbock,-TX-79416","8305 4th St, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1927,213880,1968,299950,299,155.66,0.009,1,0.0,0
+"1912-20th-St,-Lubbock,-TX-79411","1912 20th St, Lubbock, TX 79411",79411,Single Family,Standard,4,3,1990,8276,1936,170000,294,85.43,0.2405,1,0.0,0
+"1012-David-Ave,-Lubbock,-TX-79403","1012 David Ave, Lubbock, TX 79403",79403,Single Family,Standard,3,2,1172,7405,2020,110000,291,93.86,0.1583,2,-6.78,1
+"2507-31st-St,-Lubbock,-TX-79410","2507 31st St, Lubbock, TX 79410",79410,Single Family,Standard,3,3,1381,8276,1947,200000,291,144.82,0.1669,1,0.0,0
+"3517-30th-St,-Lubbock,-TX-79410","3517 30th St, Lubbock, TX 79410",79410,Single Family,Standard,3,2,1824,7841,1990,173000,291,94.85,0.2326,1,0.0,0
+"3819-33rd-St,-Lubbock,-TX-79410","3819 33rd St, Lubbock, TX 79410",79410,Single Family,Standard,3,3,1431,7841,1952,171000,291,119.5,0.1825,1,0.0,0
+"5028-Itasca-St,-Lubbock,-TX-79416","5028 Itasca St, Lubbock, TX 79416",79416,Single Family,Standard,4,3.5,2526,8276,2007,280000,287,110.85,0.3052,2,-3.45,1
+"3912-100th-Pl,-Lubbock,-TX-79423","3912 100th Pl, Lubbock, TX 79423",79423,Single Family,Standard,4,3,3207,7841,2005,515000,286,160.59,0.409,1,0.0,0
+"5924-Erskine-St,-Lubbock,-TX-79416","5924 Erskine St, Lubbock, TX 79416",79416,Single Family,Standard,3,2.5,3407,696960,1996,2500000,279,733.78,0.0049,1,0.0,0
+"1904-28th-St,-Lubbock,-TX-79411","1904 28th St, Lubbock, TX 79411",79411,Single Family,Standard,4,3,1944,8276,1940,269000,263,138.37,0.2349,2,-2.15,1
+"5503-9th-St,-Lubbock,-TX-79416","5503 9th St, Lubbock, TX 79416",79416,Single Family,Standard,4,2,2396,6970,1966,239900,255,100.13,0.3438,3,-11.12,2
+"2221-39th-St,-Lubbock,-TX-79412","2221 39th St, Lubbock, TX 79412",79412,Single Family,Standard,4,2,2029,6534,1952,159900,252,78.81,0.3105,3,-23.82,1
+"2210-26th-St,-Lubbock,-TX-79411","2210 26th St, Lubbock, TX 79411",79411,Single Family,Standard,2,1,880,6970,1939,98000,247,111.36,0.1263,1,0.0,0
+"4613-138th-Pl,-Lubbock,-TX-79424","4613 138th Pl, Lubbock, TX 79424",79424,Single Family,New Construction,4,3,2225,7405,2025,484900,244,217.93,0.3005,1,0.0,0
+"2624-Tiffin-Ave,-Lubbock,-TX-79407","2624 Tiffin Ave, Lubbock, TX 79407",79407,Single Family,Standard,3,2,1455,5097,2023,175000,242,120.27,0.2855,1,0.0,0
+"5106-97th-St,-Lubbock,-TX-79424","5106 97th St, Lubbock, TX 79424",79424,Single Family,Standard,4,3.5,3729,10890,1996,519900,231,139.42,0.3424,1,0.0,0
+"2101-48th-St,-Lubbock,-TX-79412","2101 48th St, Lubbock, TX 79412",79412,Single Family,Standard,3,2,1263,7405,1956,147500,231,116.79,0.1706,1,0.0,0
+"2119-26th-St,-Lubbock,-TX-79411","2119 26th St, Lubbock, TX 79411",79411,Single Family,Standard,3,1,1032,6970,1929,45000,202,43.6,0.1481,2,-30.77,1
+"7801-56th-St,-Lubbock,-TX-79407","7801 56th St, Lubbock, TX 79407",79407,Single Family,New Construction,5,3,2916,7405,2023,529900,235,181.72,0.3938,2,-0.95,1
+"1511-36th-St,-Lubbock,-TX-79412","1511 36th St, Lubbock, TX 79412",79412,Single Family,Standard,2,1,1017,7841,1951,109000,216,107.18,0.1297,1,0.0,0
+"3914-137th-St,-Lubbock,-TX-79423","3914 137th St, Lubbock, TX 79423",79423,Single Family,Standard,4,3,2517,10019,2016,482500,235,191.7,0.2512,2,9.66,0
+"306-52nd-St,-Lubbock,-TX-79404","306 52nd St, Lubbock, TX 79404",79404,Single Family,Standard,3,1,1274,6970,1964,98980,231,77.69,0.1828,1,0.0,0
+"1614-56th-St,-Lubbock,-TX-79412","1614 56th St, Lubbock, TX 79412",79412,Single Family,Standard,3,2,2188,9583,1962,220000,208,100.55,0.2283,1,0.0,0
+"4214-64th-St,-Lubbock,-TX-79413","4214 64th St, Lubbock, TX 79413",79413,Single Family,Standard,3,2,2555,7841,1967,329500,207,128.96,0.3259,3,-1.79,1
+"2003-County-Rd,-7820,-Lubbock,-TX-79423","2003 County Rd, 7820, Lubbock, TX 79423",79423,Single Family,New Construction,4,3,2267,43560,2026,514950,201,227.15,0.052,1,0.0,0
+"7107-23rd-St,-Lubbock,-TX-79407","7107 23rd St, Lubbock, TX 79407",79407,Single Family,Standard,4,2,1652,6534,2022,285000,219,172.52,0.2528,1,0.0,0
+"2112-58th-St,-Lubbock,-TX-79412","2112 58th St, Lubbock, TX 79412",79412,Single Family,Standard,4,2,1764,7405,1959,175000,220,99.21,0.2382,1,0.0,0
+"2103-County-Rd,-7820,-Lubbock,-TX-79423","2103 County Rd, 7820, Lubbock, TX 79423",79423,Single Family,New Construction,4,3,2458,43560,2026,543218,201,221.0,0.0564,2,735.72,0
+"19210-County-Rd,-2240,-Lubbock,-TX-79423","19210 County Rd, 2240, Lubbock, TX 79423",79423,Single Family,Standard,4,3,2692,54886,2022,579000,186,215.08,0.049,3,-7.36,2
+"9203-Grover-Ave,-Lubbock,-TX-79424","9203 Grover Ave, Lubbock, TX 79424",79424,Single Family,Standard,4,3,2985,8276,2005,454000,219,152.09,0.3607,1,0.0,0
+"3603-143rd-St,-Lubbock,-TX-79423","3603 143rd St, Lubbock, TX 79423",79423,Single Family,New Construction,4,3.5,2320,8712,2025,455000,219,196.12,0.2663,2,-8.63,1
+"4609-County-Rd,-7900,-Lubbock,-TX-79424","4609 County Rd, 7900, Lubbock, TX 79424",79424,Single Family,New Construction,7,5.5,5064,436036,2026,985600,209,194.63,0.0116,1,0.0,0
+"5504-110th-St,-Lubbock,-TX-79424","5504 110th St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,1662,4792,2013,219000,189,131.77,0.3468,3,-4.78,1
+"3118-113th-St,-Lubbock,-TX-79423","3118 113th St, Lubbock, TX 79423",79423,Townhouse,Standard,3,2,1602,3920,2014,186000,200,116.1,0.4087,1,0.0,0
+"2508-108th-Dr,-Lubbock,-TX-79423","2508 108th Dr, Lubbock, TX 79423",79423,Single Family,Standard,3,2,1266,5227,2002,189000,208,149.29,0.2422,1,0.0,0
+"3421-E-Bates-St,-Lubbock,-TX-79403","3421 E Bates St, Lubbock, TX 79403",79403,Single Family,Standard,3,2.5,1156,7841,2021,110000,196,95.16,0.1474,2,-4.35,1
+"12205-Norfolk-Ave,-Lubbock,-TX-79423","12205 Norfolk Ave, Lubbock, TX 79423",79423,Single Family,Standard,3,2,2032,8276,2016,349500,207,172.0,0.2455,3,-11.07,2
+"6928-12th-St,-Lubbock,-TX-79416","6928 12th St, Lubbock, TX 79416",79416,Single Family,New Construction,4,3,1833,6098,2025,294950,204,160.91,0.3006,1,0.0,0
+"3513-45th-St,-Lubbock,-TX-79413","3513 45th St, Lubbock, TX 79413",79413,Single Family,Standard,4,3,2809,13068,1956,380000,187,135.28,0.215,2,15.15,0
+"2601-25th-St,-Lubbock,-TX-79410","2601 25th St, Lubbock, TX 79410",79410,Single Family,Standard,3,2,2023,7841,1940,620000,187,306.48,0.258,1,0.0,0
+"5513-104th-St,-Lubbock,-TX-79424","5513 104th St, Lubbock, TX 79424",79424,Single Family,Standard,4,2,2007,8276,2008,308500,198,153.71,0.2425,1,0.0,0
+"4225-County-Rd,-1200,-Lubbock,-TX-79407","4225 County Rd, 1200, Lubbock, TX 79407",79407,Single Family,Standard,4,2.5,2880,872071,2014,589900,194,204.83,0.0033,1,0.0,0
+"521-46th-St,-Lubbock,-TX-79404","521 46th St, Lubbock, TX 79404",79404,Single Family,Standard,3,1,808,6534,1970,59000,189,73.02,0.1237,2,0.0,0
+"7513-103rd-St,-Lubbock,-TX-79424","7513 103rd St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,1350,6098,2018,205000,189,151.85,0.2214,2,0.0,0
+"1633-139th-St,-Lubbock,-TX-79423","1633 139th St, Lubbock, TX 79423",79423,Single Family,Standard,3,2,1200,4356,2020,180000,186,150.0,0.2755,1,0.0,0
+"2906-Ute-Ave,-Lubbock,-TX-79404","2906 Ute Ave, Lubbock, TX 79404",79404,Single Family,Standard,3,2,1400,6098,1959,125000,167,89.29,0.2296,1,0.0,0
+"5006-Jarvis-St,-Lubbock,-TX-79416","5006 Jarvis St, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1531,7405,2013,238000,183,155.45,0.2068,3,-4.8,1
+"3722-Prentiss-Ave,-Lubbock,-TX-79407","3722 Prentiss Ave, Lubbock, TX 79407",79407,Single Family,Standard,3,2,1712,5227,2020,227000,181,132.59,0.3275,1,0.0,0
+"5615-Kemper-St,-Lubbock,-TX-79416","5615 Kemper St, Lubbock, TX 79416",79416,Townhouse,Standard,3,2,1419,5663,2021,198000,181,139.53,0.2506,1,0.0,0
+"5613-Kemper-St,-Lubbock,-TX-79416","5613 Kemper St, Lubbock, TX 79416",79416,Townhouse,Standard,2,2,1400,3485,2021,179000,181,127.86,0.4017,1,0.0,0
+"5532-Kemper-St,-Lubbock,-TX-79416","5532 Kemper St, Lubbock, TX 79416",79416,Townhouse,Standard,2,2,1408,3049,2022,192900,180,137.0,0.4618,2,0.0,0
+"7809-52nd-St,-Lubbock,-TX-79407","7809 52nd St, Lubbock, TX 79407",79407,Single Family,Standard,4,3,2100,7000,2022,379900,179,180.9,0.3,1,0.0,0
+"3104-113th-St,-Lubbock,-TX-79423","3104 113th St, Lubbock, TX 79423",79423,Townhouse,Standard,3,2,1602,3920,2014,207000,178,129.21,0.4087,1,0.0,0
+"6705-84th-St,-Lubbock,-TX-79424","6705 84th St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,1296,5227,2008,190000,178,146.6,0.2479,1,0.0,0
+"2309-101st-St,-Lubbock,-TX-79423","2309 101st St, Lubbock, TX 79423",79423,Single Family,Standard,4,2,2340,6970,2009,294500,177,125.85,0.3357,2,-9.38,1
+"1705-Ave-S,-Lubbock,-TX-79401","1705 Ave S, Lubbock, TX 79401",79401,Single Family,Standard,2,1,725,8276,1940,58000,176,80.0,0.0876,1,0.0,0
+"5704-Geneva-Ave,-Lubbock,-TX-79413","5704 Geneva Ave, Lubbock, TX 79413",79413,Single Family,Standard,4,3,2451,10454,1962,262500,176,107.1,0.2345,1,0.0,0
+"2011-37th-St,-Lubbock,-TX-79412","2011 37th St, Lubbock, TX 79412",79412,Single Family,Standard,2,1,827,7405,1957,82000,174,99.15,0.1117,1,0.0,0
+"2209-E-29th-St,-Lubbock,-TX-79404","2209 E 29th St, Lubbock, TX 79404",79404,Single Family,Standard,3,1,1152,6534,1957,94000,174,81.6,0.1763,1,0.0,0
+"1826-E-25th-St,-Lubbock,-TX-79404","1826 E 25th St, Lubbock, TX 79404",79404,Single Family,Standard,2,1,829,6970,1955,79500,174,95.9,0.1189,1,0.0,0
+"2403-Fir-Ave,-Lubbock,-TX-79404","2403 Fir Ave, Lubbock, TX 79404",79404,Single Family,Standard,2,1,1024,6970,1958,65000,174,63.48,0.1469,1,0.0,0
+"12102-Savannah-Ave,-Lubbock,-TX-79424","12102 Savannah Ave, Lubbock, TX 79424",79424,Townhouse,Standard,3,2.5,1779,3920,2022,329999,173,185.5,0.4538,1,0.0,0
+"4705-Marshall-St,-Lubbock,-TX-79416","4705 Marshall St, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1168,6098,1977,149000,173,127.57,0.1915,1,0.0,0
+"6802-56th-St,-Lubbock,-TX-79407","6802 56th St, Lubbock, TX 79407",79407,Single Family,Standard,4,2,2050,6534,2023,352500,172,171.95,0.3137,1,0.0,0
+"8601-Memphis-Dr,-Unit-C60,-Lubbock,-TX-79423","8601 Memphis Dr, Unit C60, Lubbock, TX 79423",79423,Single Family,Standard,2,2,1071,2178,1983,132500,171,123.72,0.4917,3,-5.36,2
+"1916-71st-St,-Lubbock,-TX-79412","1916 71st St, Lubbock, TX 79412",79412,Single Family,Standard,3,2,1514,6970,1966,164000,168,108.32,0.2172,1,0.0,0
+"2119-31st-St,-Lubbock,-TX-79411","2119 31st St, Lubbock, TX 79411",79411,Single Family,Standard,2,1,832,6970,1940,125000,167,150.24,0.1194,1,0.0,0
+"2314-35th-St,-Lubbock,-TX-79412","2314 35th St, Lubbock, TX 79412",79412,Single Family,Standard,2,1,968,7405,1950,125000,167,129.13,0.1307,1,0.0,0
+"5618-E-County-Rd,-6560,-Lubbock,-TX-79403","5618 E County Rd, 6560, Lubbock, TX 79403",79403,Single Family,Standard,2,2,1260,74488,1979,89999,163,71.43,0.0169,1,0.0,0
+"1608-48th-St,-Lubbock,-TX-79412","1608 48th St, Lubbock, TX 79412",79412,Single Family,Standard,3,2,1616,6970,2016,195000,161,120.67,0.2319,1,0.0,0
+"531-N-Juneau-Ave,-Lubbock,-TX-79416","531 N Juneau Ave, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1582,5227,2004,179900,167,113.72,0.3027,1,0.0,0
+"6533-86th-St,-Lubbock,-TX-79424","6533 86th St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,1904,5663,2003,215000,164,112.92,0.3362,2,-6.52,1
+"6903-Gary-Ave,-Lubbock,-TX-79413","6903 Gary Ave, Lubbock, TX 79413",79413,Single Family,Standard,5,3,3328,8712,1990,315000,166,94.65,0.382,1,0.0,0
+"4503-45th-St,-Lubbock,-TX-79414","4503 45th St, Lubbock, TX 79414",79414,Single Family,Standard,2,1,1085,7841,1953,115000,164,105.99,0.1384,1,0.0,0
+"2616-38th-St,-Lubbock,-TX-79413","2616 38th St, Lubbock, TX 79413",79413,Single Family,Standard,2,1,884,7841,1950,130000,163,147.06,0.1127,1,0.0,0
+"7814-53rd-St,-Lubbock,-TX-79407","7814 53rd St, Lubbock, TX 79407",79407,Single Family,New Construction,4,3,2235,6534,2026,424900,157,190.11,0.3421,1,0.0,0
+"2115-62nd-St,-Lubbock,-TX-79412","2115 62nd St, Lubbock, TX 79412",79412,Single Family,Standard,3,2,2174,10890,1962,200000,164,92.0,0.1996,1,0.0,0
+"3605-143rd-St,-Lubbock,-TX-79423","3605 143rd St, Lubbock, TX 79423",79423,Single Family,New Construction,4,3,2246,8712,2025,449000,164,199.91,0.2578,1,0.0,0
+"10003-Ave-X,-Lubbock,-TX-79423","10003 Ave X, Lubbock, TX 79423",79423,Single Family,Standard,4,2,1794,5663,2013,249000,158,138.8,0.3168,1,0.0,0
+"2805-53rd-St,-Lubbock,-TX-79413","2805 53rd St, Lubbock, TX 79413",79413,Single Family,Standard,3,2,1313,7405,1955,144950,163,110.4,0.1773,2,-84.98,1
+"5520-80th-St,-Lubbock,-TX-79424","5520 80th St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,2076,9148,1975,250000,164,120.42,0.2269,1,0.0,0
+"7808-97th-St,-Lubbock,-TX-79424","7808 97th St, Lubbock, TX 79424",79424,Single Family,Short Sale,4,2,1772,5663,2022,232000,156,130.93,0.3129,1,0.0,0
+"5016-County-Rd,-7890,-Lubbock,-TX-79424","5016 County Rd, 7890, Lubbock, TX 79424",79424,Single Family,Standard,6,6,8134,275735,2017,2900000,151,356.53,0.0295,1,0.0,0
+"5617-Ave-D,-Lubbock,-TX-79404","5617 Ave D, Lubbock, TX 79404",79404,Single Family,Standard,2,1,1104,6891,1955,94999,159,86.05,0.1602,1,0.0,0
+"4501-45th-St,-Lubbock,-TX-79414","4501 45th St, Lubbock, TX 79414",79414,Single Family,Standard,2,1,1038,7841,1953,110000,164,105.97,0.1324,1,0.0,0
+"2605-1st-St,-Lubbock,-TX-79415","2605 1st St, Lubbock, TX 79415",79415,Single Family,Standard,2,1,672,6098,1950,75000,154,111.61,0.1102,1,0.0,0
+"5407-79th-St,-Lubbock,-TX-79424","5407 79th St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,2608,8712,1974,305000,162,116.95,0.2994,1,0.0,0
+"709-80th-St,-Lubbock,-TX-79404","709 80th St, Lubbock, TX 79404",79404,Single Family,Standard,4,4,4360,14810,1962,245000,152,56.19,0.2944,1,0.0,0
+"3802-32nd-St,-Lubbock,-TX-79410","3802 32nd St, Lubbock, TX 79410",79410,Single Family,Standard,2,1,908,7950,1951,99999,159,110.13,0.1142,1,0.0,0
+"2605-E-19th-St,-Lubbock,-TX-79403","2605 E 19th St, Lubbock, TX 79403",79403,Single Family,Standard,2,2,1280,8625,1990,89999,159,70.31,0.1484,1,0.0,0
+"4025-136th-St,-Lubbock,-TX-79423","4025 136th St, Lubbock, TX 79423",79423,Single Family,New Construction,4,3,2683,7841,2025,555000,144,206.86,0.3422,3,-5.92,2
+"6307-County-Rd,-7430,-Lubbock,-TX-79424","6307 County Rd, 7430, Lubbock, TX 79424",79424,Single Family,Standard,3,2.5,2824,22651,2003,450000,158,159.35,0.1247,2,-5.26,1
+"3304-Itasca-St,-Lubbock,-TX-79415","3304 Itasca St, Lubbock, TX 79415",79415,Single Family,Standard,3,1,1027,6970,1955,135000,147,131.45,0.1473,1,0.0,0
+"2814-County-Rd,-7650,-Lubbock,-TX-79423","2814 County Rd, 7650, Lubbock, TX 79423",79423,Single Family,Standard,4,1,1739,43560,2015,160000,150,92.01,0.0399,2,14.29,0
+"3615-47th-St,-Lubbock,-TX-79413","3615 47th St, Lubbock, TX 79413",79413,Single Family,Standard,3,3,2713,9148,1957,287000,150,105.79,0.2966,1,0.0,0
+"5001-91st-St,-Lubbock,-TX-79424","5001 91st St, Lubbock, TX 79424",79424,Single Family,Standard,4,4,5520,8276,2012,939000,147,170.11,0.667,1,0.0,0
+"3013-45th-St,-Lubbock,-TX-79413","3013 45th St, Lubbock, TX 79413",79413,Single Family,Standard,3,2,1332,7841,1986,150000,145,112.61,0.1699,3,0.67,1
+"6932-35th-St,-Lubbock,-TX-79407","6932 35th St, Lubbock, TX 79407",79407,Single Family,Standard,3,2,1827,8712,2008,220000,153,120.42,0.2097,1,0.0,0
+"1908-47th-St,-Lubbock,-TX-79412","1908 47th St, Lubbock, TX 79412",79412,Single Family,Standard,3,2,1296,7841,1953,159900,150,123.38,0.1653,2,-3.03,1
+"5536-Kemper-St,-Lubbock,-TX-79416","5536 Kemper St, Lubbock, TX 79416",79416,Townhouse,Standard,3,2,1522,4356,2022,207000,145,136.01,0.3494,2,0.0,0
+"2316-58th-St,-Lubbock,-TX-79412","2316 58th St, Lubbock, TX 79412",79412,Single Family,Short Sale,3,2,1856,10019,1958,160000,151,86.21,0.1852,1,0.0,0
+"5604-70th-St,-Lubbock,-TX-79424","5604 70th St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,1923,9148,1978,269000,150,139.89,0.2102,1,0.0,0
+"6906-8th-St,-Lubbock,-TX-79416","6906 8th St, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1455,6534,2003,234900,150,161.44,0.2227,1,0.0,0
+"4630-143rd-St,-Lubbock,-TX-79424","4630 143rd St, Lubbock, TX 79424",79424,Single Family,New Construction,4,3,2934,9583,2025,685000,149,233.47,0.3062,2,-2.13,1
+"1804-E-1st-Pl,-Lubbock,-TX-79403","1804 E 1st Pl, Lubbock, TX 79403",79403,Single Family,Standard,2,1,936,6534,1960,55000,149,58.76,0.1433,1,0.0,0
+"2705-85th-St,-Lubbock,-TX-79423","2705 85th St, Lubbock, TX 79423",79423,Single Family,Standard,3,2,1671,7405,1996,249999,142,149.61,0.2257,1,0.0,0
+"2216-39th-St,-Lubbock,-TX-79412","2216 39th St, Lubbock, TX 79412",79412,Single Family,Standard,3,1,1064,7841,1958,99000,147,93.05,0.1357,2,-5.71,1
+"2806-58th-St,-Lubbock,-TX-79413","2806 58th St, Lubbock, TX 79413",79413,Single Family,Standard,3,2,2260,8276,1957,202500,146,89.6,0.2731,2,-3.57,1
+"2506-44th-St,-Lubbock,-TX-79413","2506 44th St, Lubbock, TX 79413",79413,Single Family,Standard,4,2,1454,7841,1986,195000,147,134.11,0.1854,1,0.0,0
+"8411-Geneva-Ave,-Lubbock,-TX-79423","8411 Geneva Ave, Lubbock, TX 79423",79423,Single Family,Standard,3,2,1714,7405,1978,210000,146,122.52,0.2315,1,0.0,0
+"9223-E-County-Rd,-6700,-Lubbock,-TX-79403","9223 E County Rd, 6700, Lubbock, TX 79403",79403,Single Family,Standard,4,2.5,2914,54450,2003,499900,147,171.55,0.0535,2,-9.09,1
+"2708-42nd-St,-Lubbock,-TX-79413","2708 42nd St, Lubbock, TX 79413",79413,Single Family,Standard,3,2,1288,6970,1950,130000,146,100.93,0.1848,2,-10.34,1
+"2310-38th-St,-Lubbock,-TX-79412","2310 38th St, Lubbock, TX 79412",79412,Single Family,Standard,3,1,1418,6534,1951,114980,146,81.09,0.217,1,0.0,0
+"4417-Ridgely-Ave,-Lubbock,-TX-79407","4417 Ridgely Ave, Lubbock, TX 79407",79407,Single Family,New Construction,4,3.5,2460,6970,2026,479900,139,195.08,0.3529,2,2.35,0
+"5016-15th-St,-Lubbock,-TX-79416","5016 15th St, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1797,6534,1959,229500,146,127.71,0.275,1,0.0,0
+"5202-20th-St,-Lubbock,-TX-79407","5202 20th St, Lubbock, TX 79407",79407,Single Family,Standard,3,2,2270,6970,1971,259950,140,114.52,0.3257,2,-11.88,1
+"5402-7th-St,-Lubbock,-TX-79416","5402 7th St, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1614,8712,1960,190000,143,117.72,0.1853,1,0.0,0
+"3111-Duke-St,-Lubbock,-TX-79415","3111 Duke St, Lubbock, TX 79415",79415,Single Family,Standard,3,2,1461,3920,2022,200000,142,136.89,0.3727,1,0.0,0
+"2010-52nd-St,-Lubbock,-TX-79412","2010 52nd St, Lubbock, TX 79412",79412,Single Family,Standard,4,2,1957,8712,1961,180000,144,91.98,0.2246,1,0.0,0
+"8424-10th-Pl,-Lubbock,-TX-79416","8424 10th Pl, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1520,5358,2022,233000,144,153.29,0.2837,1,0.0,0
+"7514-56th-St,-Lubbock,-TX-79407","7514 56th St, Lubbock, TX 79407",79407,Single Family,New Construction,4,3,2171,7405,2026,450900,144,207.69,0.2932,1,0.0,0
+"5408-8th-Pl,-Lubbock,-TX-79416","5408 8th Pl, Lubbock, TX 79416",79416,Single Family,Standard,4,2,2429,13939,1960,215000,141,88.51,0.1743,1,0.0,0
+"2901-19th-St,-Lubbock,-TX-79410","2901 19th St, Lubbock, TX 79410",79410,Single Family,Standard,5,4,6077,22651,1951,888000,130,146.12,0.2683,1,0.0,0
+"1707-33rd-St,-Lubbock,-TX-79411","1707 33rd St, Lubbock, TX 79411",79411,Single Family,Standard,5,4,4135,17424,1948,449000,130,108.59,0.2373,1,0.0,0
+"2404-York-Ave,-Lubbock,-TX-79407","2404 York Ave, Lubbock, TX 79407",79407,Single Family,Standard,7,9,11373,73616,2000,1550000,129,136.29,0.1545,5,-22.5,3
+"13804-Utica-Ave,-Lubbock,-TX-79424","13804 Utica Ave, Lubbock, TX 79424",79424,Single Family,New Construction,4,3,2527,7841,2026,585000,139,231.5,0.3223,1,0.0,0
+"4911-116th-St,-Lubbock,-TX-79424","4911 116th St, Lubbock, TX 79424",79424,Single Family,Standard,3,3.5,5078,10019,2020,1499000,139,295.19,0.5068,1,0.0,0
+"2508-21st-St,-Lubbock,-TX-79410","2508 21st St, Lubbock, TX 79410",79410,Single Family,Standard,4,3,2211,13068,1939,325000,139,146.99,0.1692,1,0.0,0
+"504-81st-St,-Lubbock,-TX-79404","504 81st St, Lubbock, TX 79404",79404,Single Family,Standard,2,1,878,9148,1954,59000,139,67.2,0.096,2,-20.81,1
+"7101-24th-St,-Lubbock,-TX-79407","7101 24th St, Lubbock, TX 79407",79407,Single Family,Standard,3,2,1989,6098,2023,324900,138,163.35,0.3262,1,0.0,0
+"2627-Parkway-Dr,-Lubbock,-TX-79403","2627 Parkway Dr, Lubbock, TX 79403",79403,Single Family,Standard,4,2,1550,9583,2025,240000,138,154.84,0.1617,1,0.0,0
+"1016-Ironton-Ave,-Lubbock,-TX-79416","1016 Ironton Ave, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1312,6534,1994,187000,138,142.53,0.2008,1,0.0,0
+"1019-N-Grover-Ave,-Lubbock,-TX-79416","1019 N Grover Ave, Lubbock, TX 79416",79416,Single Family,Standard,3,2.5,1766,5663,2022,299000,138,169.31,0.3118,1,0.0,0
+"5905-112th-St,-Lubbock,-TX-79424","5905 112th St, Lubbock, TX 79424",79424,Single Family,Standard,4,3,2584,9583,2018,498000,138,192.72,0.2696,1,0.0,0
+"2009-46th-St,-Lubbock,-TX-79412","2009 46th St, Lubbock, TX 79412",79412,Single Family,Standard,4,2,2662,10019,1952,129000,138,48.46,0.2657,1,0.0,0
+"7707-Lasalle-Ave,-Lubbock,-TX-79424","7707 Lasalle Ave, Lubbock, TX 79424",79424,Single Family,Standard,4,3,3889,18295,2009,699000,137,179.74,0.2126,1,0.0,0
+"1101-65th-St,-Lubbock,-TX-79412","1101 65th St, Lubbock, TX 79412",79412,Single Family,Standard,3,2,1567,13939,1952,124900,137,79.71,0.1124,2,0.0,0
+"2706-68th-St,-Lubbock,-TX-79413","2706 68th St, Lubbock, TX 79413",79413,Single Family,Standard,3,1,1191,7841,1961,138900,137,116.62,0.1519,1,0.0,0
+"4621-35th-St,-Lubbock,-TX-79414","4621 35th St, Lubbock, TX 79414",79414,Single Family,Standard,3,1,1228,8712,1955,155000,137,126.22,0.141,1,0.0,0
+"2202-16th-St,-Lubbock,-TX-79401","2202 16th St, Lubbock, TX 79401",79401,Single Family,Standard,4,3,2989,12632,1928,249500,136,83.47,0.2366,2,0.0,0
+"3807-68th-St,-Lubbock,-TX-79413","3807 68th St, Lubbock, TX 79413",79413,Single Family,Standard,3,2.5,2852,12197,1968,290000,136,101.68,0.2338,1,0.0,0
+"4409-27th-St,-Lubbock,-TX-79410","4409 27th St, Lubbock, TX 79410",79410,Single Family,Standard,3,2,1460,8712,1962,164000,136,112.33,0.1676,1,0.0,0
+"4518-49th-St,-Lubbock,-TX-79414","4518 49th St, Lubbock, TX 79414",79414,Single Family,Standard,3,2,1680,6970,1956,149950,136,89.26,0.241,2,-6.28,1
+"1910-64th-St,-Lubbock,-TX-79412","1910 64th St, Lubbock, TX 79412",79412,Single Family,Standard,3,2,1579,8712,1953,125500,136,79.48,0.1812,1,0.0,0
+"4808-Jarvis-St,-Lubbock,-TX-79416","4808 Jarvis St, Lubbock, TX 79416",79416,Single Family,Standard,4,2,2007,6098,2006,240000,135,119.58,0.3291,1,0.0,0
+"2723-66th-St,-Lubbock,-TX-79413","2723 66th St, Lubbock, TX 79413",79413,Single Family,Standard,4,2,1657,6970,1960,162500,135,98.07,0.2377,1,0.0,0
+"4725-48th-St,-Lubbock,-TX-79414","4725 48th St, Lubbock, TX 79414",79414,Townhouse,Standard,2,2.5,1636,2178,1976,128000,135,78.24,0.7511,1,0.0,0
+"3512-E-Baylor-St,-Lubbock,-TX-79403","3512 E Baylor St, Lubbock, TX 79403",79403,Single Family,Standard,4,2,1350,9583,1963,112500,135,83.33,0.1409,1,0.0,0
+"1924-73rd-St,-Lubbock,-TX-79423","1924 73rd St, Lubbock, TX 79423",79423,Single Family,Standard,3,1,1297,6534,1965,145000,135,111.8,0.1985,1,0.0,0
+"15403-County-Rd,-2140,-Lubbock,-TX-79423","15403 County Rd, 2140, Lubbock, TX 79423",79423,Single Family,Standard,5,3,2791,43560,2010,515000,133,184.52,0.0641,2,-2.74,1
+"2718-E-10th-St,-Lubbock,-TX-79403","2718 E 10th St, Lubbock, TX 79403",79403,Single Family,Standard,3,1,888,6534,1961,59000,133,66.44,0.1359,2,-16.9,1
+"4234-Zadar-Ave,-Lubbock,-TX-79407","4234 Zadar Ave, Lubbock, TX 79407",79407,Single Family,New Construction,4,3.5,2889,21780,2025,849000,133,293.87,0.1326,2,-2.04,1
+"2412-N-Ave-O,-Lubbock,-TX-79403","2412 N Ave O, Lubbock, TX 79403",79403,Single Family,Standard,3,2,1323,5227,2022,220000,133,166.29,0.2531,1,0.0,0
+"10403-Xenia-Ave,-Lubbock,-TX-79424","10403 Xenia Ave, Lubbock, TX 79424",79424,Single Family,Standard,3,2,1642,6098,2021,250000,132,152.25,0.2693,1,0.0,0
+"2020-138th-St,-Lubbock,-TX-79423","2020 138th St, Lubbock, TX 79423",79423,Single Family,Standard,3,2,1667,5663,2021,233900,131,140.31,0.2944,2,-2.54,1
+"607-Inler-Ave,-Lubbock,-TX-79416","607 Inler Ave, Lubbock, TX 79416",79416,Single Family,Standard,2,1,1054,13939,1955,30000,131,28.46,0.0756,1,0.0,0
+"605-Inler-Ave,-Lubbock,-TX-79416","605 Inler Ave, Lubbock, TX 79416",79416,Single Family,Standard,3,1,1226,13939,1955,65000,131,53.02,0.088,1,0.0,0
+"4913-40th-St,-Lubbock,-TX-79414","4913 40th St, Lubbock, TX 79414",79414,Single Family,Standard,3,1,1250,7841,1955,110000,131,88.0,0.1594,2,-9.09,1
+"4913-56th-St,-Lubbock,-TX-79414","4913 56th St, Lubbock, TX 79414",79414,Single Family,Standard,3,2,1587,7841,2003,179000,129,112.79,0.2024,1,0.0,0
+"6018-116th-St,-Lubbock,-TX-79424","6018 116th St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,2000,40075,1986,385000,131,192.5,0.0499,1,0.0,0
+"3715-36th-St,-Lubbock,-TX-79413","3715 36th St, Lubbock, TX 79413",79413,Single Family,Standard,3,3,2197,11326,1960,205000,129,93.31,0.194,1,0.0,0
+"3215-Itasca-St,-Lubbock,-TX-79415","3215 Itasca St, Lubbock, TX 79415",79415,Single Family,Standard,3,1,940,7405,1950,99000,129,105.32,0.1269,1,0.0,0
+"7404-Fir-Ave,-Lubbock,-TX-79404","7404 Fir Ave, Lubbock, TX 79404",79404,Single Family,Standard,3,2,1309,7841,1981,140000,129,106.95,0.1669,1,0.0,0
+"4903-116th-St,-Lubbock,-TX-79424","4903 116th St, Lubbock, TX 79424",79424,Single Family,Standard,4,4,3783,12197,2014,929000,126,245.57,0.3102,1,0.0,0
+"10923-Norwich-Ave,-Lubbock,-TX-79424","10923 Norwich Ave, Lubbock, TX 79424",79424,Single Family,Standard,2,2,1286,7405,2022,272000,126,211.51,0.1737,4,-4.56,2
+"7613-60th-St,-Lubbock,-TX-79407","7613 60th St, Lubbock, TX 79407",79407,Single Family,Standard,4,2,2199,6534,2022,285000,126,129.6,0.3365,1,0.0,0
+"5019-27th-St,-Lubbock,-TX-79407","5019 27th St, Lubbock, TX 79407",79407,Townhouse,Standard,3,2,1979,3049,1976,165000,123,83.38,0.6491,1,0.0,0
+"3721-31st-St,-Lubbock,-TX-79410","3721 31st St, Lubbock, TX 79410",79410,Single Family,Standard,4,2,1280,7405,1950,185000,126,144.53,0.1729,1,0.0,0
+"14807-Oxford-Ave,-Lubbock,-TX-79423","14807 Oxford Ave, Lubbock, TX 79423",79423,Single Family,New Construction,4,3.5,3012,10454,2026,905000,125,300.46,0.2881,1,0.0,0
+"7733-45th-St,-Lubbock,-TX-79407","7733 45th St, Lubbock, TX 79407",79407,Single Family,New Construction,4,4.5,4040,25700,2025,1175000,118,290.84,0.1572,2,0.0,0
+"2131-Edgewood-St,-Lubbock,-TX-79415","2131 Edgewood St, Lubbock, TX 79415",79415,Single Family,New Construction,4,2,1810,6098,2026,225499,122,124.59,0.2968,1,0.0,0
+"13606-Ave-U,-Lubbock,-TX-79423","13606 Ave U, Lubbock, TX 79423",79423,Single Family,Standard,3,2,1386,50965,2015,199000,124,143.58,0.0272,1,0.0,0
+"2305-150th-Pl,-Lubbock,-TX-79423","2305 150th Pl, Lubbock, TX 79423",79423,Single Family,New Construction,3,2,1532,5663,2026,251990,126,164.48,0.2705,1,0.0,0
+"5625-County-Rd,-6140,-Lubbock,-TX-79415","5625 County Rd, 6140, Lubbock, TX 79415",79415,Single Family,Standard,4,3,2852,64904,1988,385000,123,134.99,0.0439,1,0.0,0
+"6944-10th-St,-Lubbock,-TX-79416","6944 10th St, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1454,5663,2023,219000,118,150.62,0.2568,1,0.0,0
+"1101-14th-St,-Lubbock,-TX-79401","1101 14th St, Lubbock, TX 79401",79401,Single Family,Standard,2,1,726,10019,2024,396000,117,545.45,0.0725,1,0.0,0
+"5310-24th-St,-Lubbock,-TX-79407","5310 24th St, Lubbock, TX 79407",79407,Single Family,Standard,3,2,2031,10019,1961,184500,123,90.84,0.2027,3,-7.7,2
+"4803-73rd-St,-Lubbock,-TX-79424","4803 73rd St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,1465,7405,1977,199950,124,136.48,0.1978,1,0.0,0
+"1117-31st-St,-Lubbock,-TX-79411","1117 31st St, Lubbock, TX 79411",79411,Single Family,Standard,2,1,884,6534,1939,51000,123,57.69,0.1353,1,0.0,0
+"1503-27th-St,-Lubbock,-TX-79411","1503 27th St, Lubbock, TX 79411",79411,Single Family,Standard,3,2,872,6534,1947,30000,121,34.4,0.1335,1,0.0,0
+"4403-18th-St,-Lubbock,-TX-79416","4403 18th St, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1952,19166,1953,249777,123,127.96,0.1018,1,0.0,0
+"11104-Canton-Ave,-Lubbock,-TX-79423","11104 Canton Ave, Lubbock, TX 79423",79423,Single Family,Standard,4,2,1886,5227,2006,269900,121,143.11,0.3608,1,0.0,0
+"4301-41st-St,-Lubbock,-TX-79413","4301 41st St, Lubbock, TX 79413",79413,Single Family,Standard,3,1,1438,8712,1952,174000,110,121.0,0.1651,1,0.0,0
+"14105-Utica-Ave,-Lubbock,-TX-79424","14105 Utica Ave, Lubbock, TX 79424",79424,Single Family,New Construction,3,3,2509,6534,2026,550000,117,219.21,0.384,1,0.0,0
+"3021-Valencia-Ave,-Lubbock,-TX-79407","3021 Valencia Ave, Lubbock, TX 79407",79407,Single Family,Standard,3,2,1352,5227,2021,205000,118,151.63,0.2587,1,0.0,0
+"7014-18th-Pl,-Lubbock,-TX-79416","7014 18th Pl, Lubbock, TX 79416",79416,Single Family,New Construction,3,2,2037,5663,2025,348500,112,171.08,0.3597,1,0.0,0
+"7438-18th-St,-Lubbock,-TX-79416","7438 18th St, Lubbock, TX 79416",79416,Single Family,Standard,4,2,1778,16988,1953,146900,116,82.62,0.1047,1,0.0,0
+"5424-45th-St,-Lubbock,-TX-79414","5424 45th St, Lubbock, TX 79414",79414,Single Family,Standard,3,2,1044,7841,1965,134900,112,129.21,0.1331,1,0.0,0
+"1304-42nd-St,-Lubbock,-TX-79412","1304 42nd St, Lubbock, TX 79412",79412,Single Family,Standard,2,1,1030,7841,1951,109500,115,106.31,0.1314,2,4.29,0
+"13801-Uxbridge-Ave,-Lubbock,-TX-79424","13801 Uxbridge Ave, Lubbock, TX 79424",79424,Single Family,New Construction,4,3,2585,7841,2025,579000,108,223.98,0.3297,3,-5.85,2
+"3627-56th-St,-Lubbock,-TX-79413","3627 56th St, Lubbock, TX 79413",79413,Single Family,Standard,3,2.5,2092,8712,1963,269500,118,128.82,0.2401,1,0.0,0
+"4915-39th-St,-Lubbock,-TX-79414","4915 39th St, Lubbock, TX 79414",79414,Single Family,Standard,3,1,910,6534,1967,100000,115,109.89,0.1393,2,2.04,0
+"2202-58th-St,-Lubbock,-TX-79412","2202 58th St, Lubbock, TX 79412",79412,Single Family,Standard,5,3,2593,7841,1960,225000,111,86.77,0.3307,1,0.0,0
+"3504-27th-St,-Lubbock,-TX-79410","3504 27th St, Lubbock, TX 79410",79410,Single Family,Standard,3,2,1240,7841,1960,165000,117,133.06,0.1581,1,0.0,0
+"6555-92nd-St,-Lubbock,-TX-79424","6555 92nd St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,1915,6534,2006,229900,112,120.05,0.2931,1,0.0,0
+"4002-97th-St,-Lubbock,-TX-79423","4002 97th St, Lubbock, TX 79423",79423,Single Family,Standard,3,2,1822,7405,1985,299999,116,164.65,0.246,1,0.0,0
+"806-Vanda-Ave,-Lubbock,-TX-79403","806 Vanda Ave, Lubbock, TX 79403",79403,Single Family,Standard,3,1,832,6534,1963,59000,115,70.91,0.1273,1,0.0,0
+"2317-99th-St,-Lubbock,-TX-79423","2317 99th St, Lubbock, TX 79423",79423,Single Family,Standard,3,2,1217,5663,2007,179500,112,147.49,0.2149,1,0.0,0
+"1918-42nd-St,-Lubbock,-TX-79412","1918 42nd St, Lubbock, TX 79412",79412,Single Family,Standard,4,1,1880,8276,1964,149000,118,79.26,0.2272,3,-9.7,2
+"410-Prentiss-Ave,-Lubbock,-TX-79416","410 Prentiss Ave, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1282,6534,2001,194000,108,151.33,0.1962,2,-5.37,1
+"303-77th-St,-Lubbock,-TX-79404","303 77th St, Lubbock, TX 79404",79404,Single Family,Standard,4,2,1793,8276,2005,179900,118,100.33,0.2167,3,-7.74,2
+"2510-59th-St,-Lubbock,-TX-79413","2510 59th St, Lubbock, TX 79413",79413,Single Family,Standard,3,2,2122,10454,1956,249900,117,117.77,0.203,1,0.0,0
+"1517-E-7th-St,-Lubbock,-TX-79403","1517 E 7th St, Lubbock, TX 79403",79403,Single Family,Standard,3,2,1172,6098,2020,129990,118,110.91,0.1922,1,0.0,0
+"5015-16th-St,-Lubbock,-TX-79416","5015 16th St, Lubbock, TX 79416",79416,Single Family,Standard,4,3,2496,6534,1958,245000,116,98.16,0.382,2,75.13,0
+"2215-29th-St,-Lubbock,-TX-79411","2215 29th St, Lubbock, TX 79411",79411,Single Family,Standard,2,1,974,8276,1940,115800,116,118.89,0.1177,1,0.0,0
+"709-81st-St,-Lubbock,-TX-79404","709 81st St, Lubbock, TX 79404",79404,Single Family,Standard,2,1,952,15682,1948,100000,112,105.04,0.0607,2,66.67,0
+"2109-Edgewood-St,-Lubbock,-TX-79415","2109 Edgewood St, Lubbock, TX 79415",79415,Single Family,New Construction,4,2,1732,6098,2026,224499,110,129.62,0.284,1,0.0,0
+"3423-97th-St,-Lubbock,-TX-79423","3423 97th St, Lubbock, TX 79423",79423,Townhouse,Standard,2,2,1602,3920,2003,159900,109,99.81,0.4087,2,-11.17,1
+"7016-17th-St,-Lubbock,-TX-79416","7016 17th St, Lubbock, TX 79416",79416,Single Family,Short Sale,3,2,2223,6098,2022,380000,115,170.94,0.3645,2,-5.0,1
+"3506-N-Elm-Ave,-Lubbock,-TX-79403","3506 N Elm Ave, Lubbock, TX 79403",79403,Single Family,Standard,3,2,1092,12197,1952,135000,112,123.63,0.0895,2,12.5,0
+"2530-137th-St,-Lubbock,-TX-79423","2530 137th St, Lubbock, TX 79423",79423,Townhouse,Standard,3,2.5,1724,3049,2022,219000,110,127.03,0.5654,1,0.0,0
+"4212-FM-179,-Lubbock,-TX-79407","4212 FM 179, Lubbock, TX 79407",79407,Single Family,Standard,3,2,2344,82764,1956,537966,108,229.51,0.0283,2,-7.14,1
+"4503-43rd-St,-Lubbock,-TX-79414","4503 43rd St, Lubbock, TX 79414",79414,Single Family,Standard,3,2,1225,7405,1956,125000,115,102.04,0.1654,1,0.0,0
+"1203-County-Rd,-7715,-Lubbock,-TX-79423","1203 County Rd, 7715, Lubbock, TX 79423",79423,Single Family,New Construction,4,3,2567,43560,2026,569000,110,221.66,0.0589,2,0.0,0
+"10119-Valencia-Ave,-Lubbock,-TX-79424","10119 Valencia Ave, Lubbock, TX 79424",79424,Single Family,Standard,4,2,2079,6534,2016,267500,110,128.67,0.3182,1,0.0,0
+"3220-Waverly-Ave,-Lubbock,-TX-79407","3220 Waverly Ave, Lubbock, TX 79407",79407,Single Family,Standard,3,2,1550,5227,2022,225000,108,145.16,0.2965,1,0.0,0
+"3419-97th-St,-Lubbock,-TX-79423","3419 97th St, Lubbock, TX 79423",79423,Townhouse,Standard,2,2,1602,3920,2003,159900,109,99.81,0.4087,2,-11.17,1
+"5608-46th-St,-Lubbock,-TX-79414","5608 46th St, Lubbock, TX 79414",79414,Single Family,Standard,3,1,1000,6970,1971,75000,108,75.0,0.1435,1,0.0,0
+"2113-Edgewood-St,-Lubbock,-TX-79415","2113 Edgewood St, Lubbock, TX 79415",79415,Single Family,New Construction,4,2,1810,6098,2026,226499,106,125.14,0.2968,1,0.0,0
+"5842-County-Rd,-7675,-Lubbock,-TX-79424","5842 County Rd, 7675, Lubbock, TX 79424",79424,Single Family,New Construction,5,6,4608,44431,2026,1326600,105,287.89,0.1037,1,0.0,0
+"2117-Edgewood-St,-Lubbock,-TX-79415","2117 Edgewood St, Lubbock, TX 79415",79415,Single Family,New Construction,3,2,1413,6098,2026,197499,105,139.77,0.2317,1,0.0,0
+"6306-25th-St,-Lubbock,-TX-79407","6306 25th St, Lubbock, TX 79407",79407,Single Family,Standard,3,2,1663,7405,2011,229000,105,137.7,0.2246,1,0.0,0
+"4406-Quincy-Ave,-Lubbock,-TX-79407","4406 Quincy Ave, Lubbock, TX 79407",79407,Single Family,New Construction,4,3,2355,7405,2026,449000,105,190.66,0.318,1,0.0,0
+"5517-16th-Pl,-Lubbock,-TX-79416","5517 16th Pl, Lubbock, TX 79416",79416,Single Family,Standard,4,2,2139,7405,1965,194500,105,90.93,0.2889,1,0.0,0
+"2011-38th-St,-Lubbock,-TX-79412","2011 38th St, Lubbock, TX 79412",79412,Single Family,Standard,2,1,709,6534,1951,69000,105,97.32,0.1085,1,0.0,0
+"5430-Ave-B,-Lubbock,-TX-79404","5430 Ave B, Lubbock, TX 79404",79404,Single Family,Standard,3,1,1113,6970,1955,79000,105,70.98,0.1597,1,0.0,0
+"10306-Vicksburg-Ave,-Lubbock,-TX-79424","10306 Vicksburg Ave, Lubbock, TX 79424",79424,Single Family,Standard,3,2,2395,6534,2004,295900,104,123.55,0.3665,1,0.0,0
+"1716-133rd-St,-Lubbock,-TX-79423","1716 133rd St, Lubbock, TX 79423",79423,Single Family,Standard,3,2,1696,6098,2022,220000,104,129.72,0.2781,3,-8.33,2
+"5521-1st-Pl,-Lubbock,-TX-79416","5521 1st Pl, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1385,6970,1972,208500,104,150.54,0.1987,1,0.0,0
+"2013-48th-St,-Lubbock,-TX-79412","2013 48th St, Lubbock, TX 79412",79412,Single Family,Standard,2,2,828,7841,1953,86500,104,104.47,0.1056,1,0.0,0
+"4412-Quincy-Ave,-Lubbock,-TX-79407","4412 Quincy Ave, Lubbock, TX 79407",79407,Single Family,New Construction,4,3,2355,6970,2026,449000,104,190.66,0.3379,1,0.0,0
+"2105-Edgewood-St,-Lubbock,-TX-79415","2105 Edgewood St, Lubbock, TX 79415",79415,Single Family,New Construction,3,2,1413,6098,2026,198499,104,140.48,0.2317,1,0.0,0
+"2103-Edgewood-St,-Lubbock,-TX-79415","2103 Edgewood St, Lubbock, TX 79415",79415,Single Family,New Construction,4,2,1810,6098,2026,225499,104,124.59,0.2968,1,0.0,0
+"5602-Orlando-Ave,-Lubbock,-TX-79413","5602 Orlando Ave, Lubbock, TX 79413",79413,Single Family,Standard,4,4.5,7215,16553,1998,1000000,104,138.6,0.4359,1,0.0,0
+"1513-41st-St,-Lubbock,-TX-79412","1513 41st St, Lubbock, TX 79412",79412,Single Family,Standard,3,1,942,7841,1951,69900,103,74.2,0.1201,1,0.0,0
+"5001-County-Rd,-1425,-Lubbock,-TX-79407","5001 County Rd, 1425, Lubbock, TX 79407",79407,Single Family,Standard,4,3.5,3497,21780,2015,640000,102,183.01,0.1606,1,0.0,0
+"4307-41st-St,-Lubbock,-TX-79413","4307 41st St, Lubbock, TX 79413",79413,Single Family,Standard,3,2,1891,7405,1952,157500,102,83.29,0.2554,1,0.0,0
+"6952-101st-St,-Lubbock,-TX-79424","6952 101st St, Lubbock, TX 79424",79424,Single Family,Standard,4,3.5,2576,8712,2023,500000,102,194.1,0.2957,1,0.0,0
+"6207-110th-St,-Lubbock,-TX-79424","6207 110th St, Lubbock, TX 79424",79424,Single Family,Standard,4,2.5,3278,21780,2011,675000,102,205.92,0.1505,2,-9.99,1
+"3610-143rd-St,-Lubbock,-TX-79423","3610 143rd St, Lubbock, TX 79423",79423,Single Family,New Construction,4,3,2503,8712,2026,582900,102,232.88,0.2873,1,0.0,0
+"2422-N-Ave-O,-Lubbock,-TX-79403","2422 N Ave O, Lubbock, TX 79403",79403,Single Family,Standard,3,2,1323,5227,2023,205000,102,154.95,0.2531,1,0.0,0
+"6910-17th-St,-Lubbock,-TX-79416","6910 17th St, Lubbock, TX 79416",79416,Single Family,Standard,3,2,2064,6098,2022,298950,102,144.84,0.3385,1,0.0,0
+"6546-87th-St,-Lubbock,-TX-79424","6546 87th St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,1767,5663,2003,215000,102,121.68,0.312,1,0.0,0
+"2404-Helena-Ave,-Lubbock,-TX-79407","2404 Helena Ave, Lubbock, TX 79407",79407,Single Family,New Construction,3,2,1622,5663,2026,249000,101,153.51,0.2864,1,0.0,0
+"6314-32nd-St,-Lubbock,-TX-79407","6314 32nd St, Lubbock, TX 79407",79407,Single Family,Standard,3,2,1919,7405,1994,185000,101,96.4,0.2591,1,0.0,0
+"517-54th-St,-Lubbock,-TX-79404","517 54th St, Lubbock, TX 79404",79404,Single Family,Standard,2,1,1088,6970,1954,77500,101,71.23,0.1561,1,0.0,0
+"5117-79th-Dr,-Lubbock,-TX-79424","5117 79th Dr, Lubbock, TX 79424",79424,Single Family,Standard,3,2,1709,3485,1994,225000,101,131.66,0.4904,2,-4.26,1
+"2323-149th-St,-Lubbock,-TX-79423","2323 149th St, Lubbock, TX 79423",79423,Single Family,Standard,3,2,1358,5663,2023,218000,101,160.53,0.2398,4,-4.39,2
+"2316-48th-St,-Lubbock,-TX-79412","2316 48th St, Lubbock, TX 79412",79412,Single Family,Standard,4,1,1304,7841,1955,165000,100,126.53,0.1663,2,137.41,0
+"9807-Virginia-Ave,-Lubbock,-TX-79424","9807 Virginia Ave, Lubbock, TX 79424",79424,Single Family,Standard,4,3,2660,8276,2021,370000,100,139.1,0.3214,4,-5.13,3
+"6914-21st-St,-Lubbock,-TX-79407","6914 21st St, Lubbock, TX 79407",79407,Townhouse,Standard,3,2,1552,4356,2018,193500,97,124.68,0.3563,1,0.0,0
+"5008-Hanover-St,-Lubbock,-TX-79416","5008 Hanover St, Lubbock, TX 79416",79416,Single Family,Standard,4,3.5,2431,7841,2004,315000,97,129.58,0.31,1,0.0,0
+"2819-Colgate-St,-Lubbock,-TX-79415","2819 Colgate St, Lubbock, TX 79415",79415,Single Family,Standard,2,1,1050,6534,1932,60000,98,57.14,0.1607,1,0.0,0
+"2101-Edgewood-St,-Lubbock,-TX-79415","2101 Edgewood St, Lubbock, TX 79415",79415,Single Family,New Construction,3,2,1307,6534,2026,188499,96,144.22,0.2,1,0.0,0
+"15009-Norwood-Ave,-Lubbock,-TX-79423","15009 Norwood Ave, Lubbock, TX 79423",79423,Single Family,New Construction,4,3.5,3200,10890,2026,952500,96,297.66,0.2938,1,0.0,0
+"2808-1st-St,-Lubbock,-TX-79415","2808 1st St, Lubbock, TX 79415",79415,Single Family,Standard,3,1,960,6098,1943,93000,96,96.88,0.1574,3,-1.06,1
+"4215-E-65th-St,-Lubbock,-TX-79403","4215 E 65th St, Lubbock, TX 79403",79403,Single Family,Standard,2,1,992,7405,1945,65000,95,65.52,0.134,1,0.0,0
+"324-E-76th-St,-Lubbock,-TX-79404","324 E 76th St, Lubbock, TX 79404",79404,Single Family,Standard,3,2,1430,5227,2024,220000,95,153.85,0.2736,1,0.0,0
+"2702-20th-St,-Lubbock,-TX-79410","2702 20th St, Lubbock, TX 79410",79410,Single Family,Standard,4,3.5,2530,7405,1927,441500,95,174.51,0.3417,1,0.0,0
+"6918-20th-St,-Lubbock,-TX-79407","6918 20th St, Lubbock, TX 79407",79407,Townhouse,Standard,3,2,1551,3920,2019,189900,94,122.44,0.3957,1,0.0,0
+"8432-Wayne-Ave,-Lubbock,-TX-79424","8432 Wayne Ave, Lubbock, TX 79424",79424,Single Family,Standard,4,3.5,4185,11761,1979,649000,92,155.08,0.3558,1,0.0,0
+"5725-63rd-St,-Lubbock,-TX-79424","5725 63rd St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,1865,8276,1981,224800,91,120.54,0.2254,1,0.0,0
+"2114-27th-St,-Lubbock,-TX-79411","2114 27th St, Lubbock, TX 79411",79411,Single Family,Standard,2,1,1105,6970,1929,105000,95,95.02,0.1585,1,0.0,0
+"2414-38th-St,-Lubbock,-TX-79412","2414 38th St, Lubbock, TX 79412",79412,Single Family,Standard,4,1.5,1733,7841,1956,137500,91,79.34,0.221,2,1.85,0
+"5724-74th-St,-Lubbock,-TX-79424","5724 74th St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,1885,7841,1976,238000,91,126.26,0.2404,1,0.0,0
+"6205-21st-St,-Lubbock,-TX-79407","6205 21st St, Lubbock, TX 79407",79407,Single Family,Standard,3,2,1517,5663,2015,200000,95,131.84,0.2679,4,-4.76,2
+"7802-56th-St,-Lubbock,-TX-79407","7802 56th St, Lubbock, TX 79407",79407,Single Family,Standard,5,3.5,2893,7405,2023,559000,94,193.23,0.3907,3,-6.82,2
+"6715-91st-Pl,-Lubbock,-TX-79424","6715 91st Pl, Lubbock, TX 79424",79424,Single Family,Standard,4,2,2161,6534,2006,260000,91,120.31,0.3307,1,0.0,0
+"2136-57th-St,-Lubbock,-TX-79412","2136 57th St, Lubbock, TX 79412",79412,Single Family,Standard,3,2.5,2710,11326,1964,279500,91,103.14,0.2393,1,0.0,0
+"6301-25th-St,-Lubbock,-TX-79407","6301 25th St, Lubbock, TX 79407",79407,Single Family,Standard,3,2,1575,6970,2022,255000,91,161.9,0.226,1,0.0,0
+"2510-Ave-K,-Lubbock,-TX-79411","2510 Ave K, Lubbock, TX 79411",79411,Single Family,Standard,2,1,1016,5227,1943,22000,90,21.65,0.1944,2,0.0,0
+"706-29th-St,-Lubbock,-TX-79404","706 29th St, Lubbock, TX 79404",79404,Single Family,Standard,3,1,1164,6098,1939,59000,90,50.69,0.1909,2,0.0,0
+"2707-92nd-St,-Lubbock,-TX-79423","2707 92nd St, Lubbock, TX 79423",79423,Single Family,Standard,4,2,1955,10019,1973,139000,89,71.1,0.1951,1,0.0,0
+"523-39th-St,-Lubbock,-TX-79404","523 39th St, Lubbock, TX 79404",79404,Single Family,Standard,2,1,696,6534,1927,69000,90,99.14,0.1065,2,0.0,0
+"4003-140th-St,-Lubbock,-TX-79423","4003 140th St, Lubbock, TX 79423",79423,Single Family,Standard,4,4,3716,24394,2017,1125000,94,302.74,0.1523,1,0.0,0
+"1624-70th-St,-Lubbock,-TX-79412","1624 70th St, Lubbock, TX 79412",79412,Single Family,Standard,3,2,1283,6970,1965,169000,94,131.72,0.1841,1,0.0,0
+"4507-102nd-St,-Lubbock,-TX-79424","4507 102nd St, Lubbock, TX 79424",79424,Single Family,Standard,4,3,4007,10890,2010,899000,90,224.36,0.368,1,0.0,0
+"8810-N-FM-1264,-Lubbock,-TX-79415","8810 N FM 1264, Lubbock, TX 79415",79415,Single Family,Standard,3,2,2226,52272,1969,350000,91,157.23,0.0426,1,0.0,0
+"4005-137th-St,-Lubbock,-TX-79423","4005 137th St, Lubbock, TX 79423",79423,Single Family,Standard,4,4.5,4009,10454,2022,759900,91,189.55,0.3835,1,0.0,0
+"7115-26th-St,-Lubbock,-TX-79407","7115 26th St, Lubbock, TX 79407",79407,Single Family,Standard,4,2.5,2719,51248,1959,425000,86,156.31,0.0531,2,6.25,0
+"1921-Parkway-Dr,-Lubbock,-TX-79403","1921 Parkway Dr, Lubbock, TX 79403",79403,Single Family,Standard,3,2,1215,6970,1959,45000,92,37.04,0.1743,1,0.0,0
+"5213-Itasca-St,-Lubbock,-TX-79416","5213 Itasca St, Lubbock, TX 79416",79416,Single Family,Standard,3,2,1872,6098,2005,260000,89,138.89,0.307,1,0.0,0
+"5224-89th-St,-Lubbock,-TX-79424","5224 89th St, Lubbock, TX 79424",79424,Single Family,Standard,3,2,1873,8276,1980,235000,89,125.47,0.2263,1,0.0,0
+"6703-90th-St,-Lubbock,-TX-79424","6703 90th St, Lubbock, TX 79424",79424,Single Family,Standard,4,2,2521,7405,2005,324950,88,128.9,0.3404,1,0.0,0
+"6112-Ave-Q,-Lubbock,-TX-79412","6112 Ave Q, Lubbock, TX 79412",79412,Single Family,Standard,2,2,1319,7841,1952,70000,90,53.07,0.1682,2,-22.22,1
+"4615-138th-Pl,-Lubbock,-TX-79424","4615 138th Pl, Lubbock, TX 79424",79424,Single Family,New Construction,4,3,2311,7405,2026,550000,90,237.99,0.3121,1,0.0,0

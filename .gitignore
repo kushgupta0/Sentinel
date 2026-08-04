@@ -2,4 +2,7 @@ venv/
 .env
 __pycache__/
 *.pyc
-data/
+data/raw/
+data/macro/
+# processed CSVs are committed so the deployed viewer has data
+!data/processed/

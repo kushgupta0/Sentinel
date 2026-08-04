@@ -1,0 +1,3 @@
+formattedAddress,zipCode,price,squareFootage,pricePerSqft,yearBuilt,daysOnMarket,flagReason
+"10901 Briar Brook Ln, Frisco, TX 75033",75033,535000.0,3826.0,139.83,2003.0,60.0,ppsf 140 below floor 142 (zip median 237)
+"8340 Library St, Frisco, TX 75034",75034,615000.0,3860.0,159.33,2002.0,89.0,ppsf 159 below floor 168 (zip median 280)
