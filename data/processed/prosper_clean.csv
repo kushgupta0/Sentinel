@@ -1,0 +1,484 @@
+id,formattedAddress,zipCode,propertyType,listingType,bedrooms,bathrooms,squareFootage,lotSize,yearBuilt,price,daysOnMarket,pricePerSqft,lotRatio,priceEventCount,totalPriceChangePct,priceCuts
+"3141-Sunfish-St,-Prosper,-TX-75078","3141 Sunfish St, Prosper, TX 75078",75078,Single Family,Standard,5,5,3508,7100,2023,799000,279,227.77,0.4941,3,-32.86,2
+"1281-Manfreda-St,-Prosper,-TX-75078","1281 Manfreda St, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,2486,6534,2023,638000,249,256.64,0.3805,1,0.0,0
+"16701-Millenium-Park-Pl,-Prosper,-TX-75078","16701 Millenium Park Pl, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3305,5924,2017,599000,202,181.24,0.5579,1,0.0,0
+"15505-City-Garden-Ln,-Prosper,-TX-75078","15505 City Garden Ln, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,3691,11848,2016,775000,208,209.97,0.3115,2,-22.11,1
+"2130-Nocona-Dr,-Prosper,-TX-75078","2130 Nocona Dr, Prosper, TX 75078",75078,Single Family,Standard,6,3.5,4501,11674,2013,840000,103,186.63,0.3856,1,0.0,0
+"1120-Twin-Oaks-Dr,-Prosper,-TX-75078","1120 Twin Oaks Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,3670,22651,2006,1149500,103,313.22,0.162,1,0.0,0
+"8770-Prestonview-Dr,-Prosper,-TX-75078","8770 Prestonview Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,2532,70044,1984,899900,102,355.41,0.0361,1,0.0,0
+"2150-Bryn-Mawr-Dr,-Prosper,-TX-75078","2150 Bryn Mawr Dr, Prosper, TX 75078",75078,Single Family,Standard,4,5.5,4492,10454,2021,1325000,102,294.97,0.4297,3,-1.47,1
+"631-Table-Rock-Dr,-Prosper,-TX-75078","631 Table Rock Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3009,11326,2004,499999,102,166.17,0.2657,1,0.0,0
+"400-Trailside-Dr,-Prosper,-TX-75078","400 Trailside Dr, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,3028,10019,2014,699990,99,231.17,0.3022,1,0.0,0
+"1140-Broken-Bend-Dr,-Prosper,-TX-75078","1140 Broken Bend Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,4603,11456,2005,980000,97,212.9,0.4018,1,0.0,0
+"961-Cliff-Creek-Dr,-Prosper,-TX-75078","961 Cliff Creek Dr, Prosper, TX 75078",75078,Single Family,Standard,5,6.5,5480,26223,2017,1999999,97,364.96,0.209,2,-9.05,1
+"2001-Harvard-Ave,-Prosper,-TX-75078","2001 Harvard Ave, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4750,14636,2020,1595000,97,335.79,0.3245,1,0.0,0
+"1720-Highland-Meadows-Dr,-Prosper,-TX-75078","1720 Highland Meadows Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,3658,43996,2000,1275000,96,348.55,0.0831,1,0.0,0
+"1600-Wichita-Dr,-Prosper,-TX-75078","1600 Wichita Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4637,14070,2018,1000000,96,215.66,0.3296,1,0.0,0
+"1300-Brittany-Way,-Prosper,-TX-75078","1300 Brittany Way, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3612,11456,2013,897990,95,248.61,0.3153,2,-2.92,1
+"1730-Sweetwater-Ln,-Prosper,-TX-75078","1730 Sweetwater Ln, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4714,13983,2017,1039900,92,220.6,0.3371,1,0.0,0
+"841-Ivy-Glen-Ct,-Prosper,-TX-75078","841 Ivy Glen Ct, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3593,11979,2018,1109000,91,308.66,0.2999,1,0.0,0
+"1011-Yellowcress-Dr,-Prosper,-TX-75078","1011 Yellowcress Dr, Prosper, TX 75078",75078,Single Family,Standard,3,2.5,2278,8128,2016,525000,189,230.47,0.2803,1,0.0,0
+"5640-Lincolnwood-Dr,-Prosper,-TX-75078","5640 Lincolnwood Dr, Prosper, TX 75078",75078,Single Family,Standard,4,2,2338,8102,2009,375000,186,160.39,0.2886,3,-9.64,2
+"3881-Marigold-Ln,-Prosper,-TX-75078","3881 Marigold Ln, Prosper, TX 75078",75078,Single Family,Standard,2,2,1381,4269,2020,415000,174,300.51,0.3235,1,0.0,0
+"3711-Rosemont-Dr,-Prosper,-TX-75078","3711 Rosemont Dr, Prosper, TX 75078",75078,Townhouse,Standard,3,2.5,1815,3354,2022,399000,176,219.83,0.5411,1,0.0,0
+"16305-Toledo-Bend-Ct,-Prosper,-TX-75078","16305 Toledo Bend Ct, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,2424,6098,2013,399000,176,164.6,0.3975,2,-13.26,1
+"4180-Silver-Spur-Dr,-Prosper,-TX-75078","4180 Silver Spur Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4,3492,7275,2021,945000,174,270.62,0.48,1,0.0,0
+"791-Cavitt-Ct,-Prosper,-TX-75078","791 Cavitt Ct, Prosper, TX 75078",75078,Single Family,Standard,3,2.5,1815,2222,2022,450000,167,247.93,0.8168,2,-2.15,1
+"4671-Summerville-Ln,-Prosper,-TX-75078","4671 Summerville Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3853,12371,2022,1250000,167,324.42,0.3115,1,0.0,0
+"2412-Grant-Park-Way,-Prosper,-TX-75078","2412 Grant Park Way, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,2704,5793,2016,509900,153,188.57,0.4668,1,0.0,0
+"2920-Clearwater-Dr,-Prosper,-TX-75078","2920 Clearwater Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4,3822,7492,2016,700000,157,183.15,0.5101,2,-6.67,1
+"509-E-3rd-St,-Prosper,-TX-75078","509 E 3rd St, Prosper, TX 75078",75078,Single Family,Standard,0,1,831,7405,1925,199000,90,239.47,0.1122,2,-33.67,1
+"1501-Stony-Trl,-Prosper,-TX-75078","1501 Stony Trl, Prosper, TX 75078",75078,Single Family,Standard,6,5.5,5154,32322,2016,1625000,90,315.29,0.1595,1,0.0,0
+"2000-Willow-Bend-Ct,-Prosper,-TX-75078","2000 Willow Bend Ct, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4636,27878,2016,1850000,90,399.05,0.1663,1,0.0,0
+"2000-Fair-Oaks-Ln,-Prosper,-TX-75078","2000 Fair Oaks Ln, Prosper, TX 75078",75078,Single Family,Standard,5,4,3718,43560,2005,1050000,90,282.41,0.0854,1,0.0,0
+"2331-Rolling-Vista-Ln,-Prosper,-TX-75078","2331 Rolling Vista Ln, Prosper, TX 75078",75078,Single Family,Standard,5,5,3989,9148,2022,949900,90,238.13,0.4361,1,0.0,0
+"2360-Shady-Hill-Dr,-Prosper,-TX-75078","2360 Shady Hill Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3427,11326,2023,1045000,90,304.93,0.3026,1,0.0,0
+"1091-Broadmoor-Ln,-Prosper,-TX-75078","1091 Broadmoor Ln, Prosper, TX 75078",75078,Single Family,Standard,5,7.5,7854,99273,2006,4000000,89,509.29,0.0791,3,-23.08,2
+"1871-Aberdeen-Ln,-Prosper,-TX-75078","1871 Aberdeen Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4,4153,12632,2022,1443900,88,347.68,0.3288,1,0.0,0
+"411-Salada-Dr,-Prosper,-TX-75078","411 Salada Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3693,10019,2015,714900,89,193.58,0.3686,2,-13.87,1
+"2541-Forestbrook-Dr,-Prosper,-TX-75078","2541 Forestbrook Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3882,8276,2024,999000,148,257.34,0.4691,1,0.0,0
+"3851-Sand-Lily-Ln,-Prosper,-TX-75078","3851 Sand Lily Ln, Prosper, TX 75078",75078,Townhouse,Standard,2,2,1559,3485,2021,425000,146,272.61,0.4473,1,0.0,0
+"5591-Coventry-Dr,-Prosper,-TX-75078","5591 Coventry Dr, Prosper, TX 75078",75078,Single Family,Standard,4,2,1840,7697,2014,330000,144,179.35,0.2391,1,0.0,0
+"4151-Woodbine-Ln,-Prosper,-TX-75078","4151 Woodbine Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4083,8930,2018,1249900,139,306.12,0.4572,1,0.0,0
+"1020-Foxglove-Ln,-Prosper,-TX-75078","1020 Foxglove Ln, Prosper, TX 75078",75078,Single Family,Standard,2,2,1370,3598,2019,399500,132,291.61,0.3808,1,0.0,0
+"4590-Guthrie-St,-Prosper,-TX-75078","4590 Guthrie St, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4221,9801,2023,1149000,128,272.21,0.4307,2,-1.71,1
+"820-Hawk-Wood-Ln,-Prosper,-TX-75078","820 Hawk Wood Ln, Prosper, TX 75078",75078,Single Family,Standard,5,6.5,5091,15769,2020,1588000,85,311.92,0.3228,1,0.0,0
+"280-Dave-Trl,-Prosper,-TX-75078","280 Dave Trl, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3930,9888,2006,599000,84,152.42,0.3975,3,0.76,1
+"3420-Redpine-Dr,-Prosper,-TX-75078","3420 Redpine Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4352,10803,2016,1228000,82,282.17,0.4029,1,0.0,0
+"1941-Star-Trace-Pkwy,-Prosper,-TX-75078","1941 Star Trace Pkwy, Prosper, TX 75078",75078,Single Family,Standard,4,3,3363,11761,2021,1099000,82,326.79,0.2859,1,0.0,0
+"311-Pecan-Trl,-Prosper,-TX-75078","311 Pecan Trl, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4819,13939,2024,1389999,119,288.44,0.3457,2,-14.09,1
+"16416-Toledo-Bend-Ct,-Prosper,-TX-75078","16416 Toledo Bend Ct, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,2462,5663,2013,575000,119,233.55,0.4348,1,0.0,0
+"1540-Ashton-Ridge-Dr,-Prosper,-TX-75078","1540 Ashton Ridge Dr, Prosper, TX 75078",75078,Single Family,Standard,3,3.5,4401,14985,2020,818000,81,185.87,0.2937,2,-14.35,1
+"1360-Blue-Forest-Dr,-Prosper,-TX-75078","1360 Blue Forest Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3786,76666,2007,1355000,80,357.9,0.0494,1,0.0,0
+"801-Willowmist-Dr,-Prosper,-TX-75078","801 Willowmist Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4034,14810,2002,815000,77,202.03,0.2724,1,0.0,0
+"920-Sabine-Dr,-Prosper,-TX-75078","920 Sabine Dr, Prosper, TX 75078",75078,Single Family,Standard,5,3.5,3551,9017,2017,1000800,77,281.84,0.3938,2,-12.13,1
+"921-Gladewater-Dr,-Prosper,-TX-75078","921 Gladewater Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4,2770,6970,2020,679000,77,245.13,0.3974,1,0.0,0
+"4251-Mesa-Dr,-Prosper,-TX-75078","4251 Mesa Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5,4273,10019,2014,999999,77,234.03,0.4265,1,0.0,0
+"961-Gladewater-Dr,-Prosper,-TX-75078","961 Gladewater Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,2936,6970,2020,729900,77,248.6,0.4212,1,0.0,0
+"3521-Newport-Dr,-Prosper,-TX-75078","3521 Newport Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4034,16117,2017,1300000,76,322.26,0.2503,1,0.0,0
+"1713-Forest-Park-Dr,-Prosper,-TX-75078","1713 Forest Park Dr, Prosper, TX 75078",75078,Single Family,Standard,3,2,2095,6621,2016,499000,117,238.19,0.3164,1,0.0,0
+"4020-Gambel-Rd,-Prosper,-TX-75078","4020 Gambel Rd, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4298,9932,2024,1069000,112,248.72,0.4327,1,0.0,0
+"1420-Candler-Dr,-Prosper,-TX-75078","1420 Candler Dr, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,3075,6621,2015,500000,111,162.6,0.4644,2,-11.5,1
+"3941-Dalea-Dr,-Prosper,-TX-75078","3941 Dalea Dr, Prosper, TX 75078",75078,Townhouse,Standard,2,2,1379,2788,2019,450000,110,326.32,0.4946,2,-5.26,1
+"16304-Toledo-Bend-Ct,-Prosper,-TX-75078","16304 Toledo Bend Ct, Prosper, TX 75078",75078,Single Family,Standard,4,2,2185,5663,2012,424999,110,194.51,0.3858,1,0.0,0
+"16005-Crosslake-Ct,-Prosper,-TX-75078","16005 Crosslake Ct, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,2234,6578,2014,439900,104,196.91,0.3396,1,0.0,0
+"4630-Summerville-Ln,-Prosper,-TX-75078","4630 Summerville Ln, Prosper, TX 75078",75078,Single Family,Standard,4,5,3871,12023,2022,1350000,103,348.75,0.322,2,-17.93,1
+"761-Cavitt-Ct,-Prosper,-TX-75078","761 Cavitt Ct, Prosper, TX 75078",75078,Townhouse,Standard,3,2.5,1815,3485,2022,470000,103,258.95,0.5208,2,-3.09,1
+"1730-Cottonwood-Trl,-Prosper,-TX-75078","1730 Cottonwood Trl, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4540,11761,2022,1275000,75,280.84,0.386,1,0.0,0
+"2610-Stonybrook-Dr,-Prosper,-TX-75078","2610 Stonybrook Dr, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,3631,10890,2006,769000,75,211.79,0.3334,2,10.01,0
+"4141-Tranquility-Ln,-Prosper,-TX-75078","4141 Tranquility Ln, Prosper, TX 75078",75078,Single Family,Standard,6,6.5,6057,43647,2017,2300000,75,379.73,0.1388,1,0.0,0
+"521-Butterfly-Blvd,-Prosper,-TX-75078","521 Butterfly Blvd, Prosper, TX 75078",75078,Single Family,Standard,3,2,2032,6534,2015,430000,75,211.61,0.311,2,-9.28,1
+"2020-Willow-Bend-Ct,-Prosper,-TX-75078","2020 Willow Bend Ct, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4722,35153,2016,1799999,75,381.19,0.1343,1,0.0,0
+"830-Dover-Dr,-Prosper,-TX-75078","830 Dover Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,3025,8538,2019,700000,69,231.4,0.3543,1,0.0,0
+"1710-Star-Trace-Pkwy,-Prosper,-TX-75078","1710 Star Trace Pkwy, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3160,12110,2019,1040000,69,329.11,0.2609,1,0.0,0
+"2841-Meadow-Ridge-Dr,-Prosper,-TX-75078","2841 Meadow Ridge Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5,5442,12632,2008,1249000,69,229.51,0.4308,1,0.0,0
+"2140-Elm-Terrace-Ln,-Prosper,-TX-75078","2140 Elm Terrace Ln, Prosper, TX 75078",75078,Single Family,Standard,5,6,4441,12589,2018,1499000,69,337.54,0.3528,1,0.0,0
+"1011-Three-Rivers-Dr,-Prosper,-TX-75078","1011 Three Rivers Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4572,21344,2005,1050000,68,229.66,0.2142,1,0.0,0
+"3500-Newport-Dr,-Prosper,-TX-75078","3500 Newport Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5,4321,10019,2018,1124900,68,260.33,0.4313,1,0.0,0
+"1041-Lone-Grove-Ln,-Prosper,-TX-75078","1041 Lone Grove Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3,3291,7841,2020,799000,68,242.78,0.4197,2,-3.14,1
+"710-Essex-Dr,-Prosper,-TX-75078","710 Essex Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4555,14375,2009,930000,68,204.17,0.3169,1,0.0,0
+"2870-Creekwood-Ln,-Prosper,-TX-75078","2870 Creekwood Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4,4675,11456,2007,1299900,68,278.05,0.4081,1,0.0,0
+"701-Featherstone-Ln,-Prosper,-TX-75078","701 Featherstone Ln, Prosper, TX 75078",75078,Single Family,Standard,6,4,4950,15507,2020,1250000,67,252.53,0.3192,1,0.0,0
+"3400-Spicewood-Dr,-Prosper,-TX-75078","3400 Spicewood Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4079,13809,2015,1150000,67,281.93,0.2954,1,0.0,0
+"1510-Chisholm-Trl,-Prosper,-TX-75078","1510 Chisholm Trl, Prosper, TX 75078",75078,Single Family,Standard,5,3.5,4260,12981,2018,799998,67,187.79,0.3282,6,-12.57,4
+"840-Moorland-Pass-Dr,-Prosper,-TX-75078","840 Moorland Pass Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,3258,7148,2021,795000,65,244.01,0.4558,1,0.0,0
+"950-Gentle-Knoll-Ln,-Prosper,-TX-75078","950 Gentle Knoll Ln, Prosper, TX 75078",75078,Single Family,Standard,3,2.5,2305,6970,2020,615000,64,266.81,0.3307,1,0.0,0
+"1461-Ramsbury-Ln,-Prosper,-TX-75078","1461 Ramsbury Ln, Prosper, TX 75078",75078,Single Family,Standard,5,4,4225,12197,2017,949900,65,224.83,0.3464,1,0.0,0
+"1751-Laurel-Vista-Ct,-Prosper,-TX-75078","1751 Laurel Vista Ct, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4259,14985,2022,914999,64,214.84,0.2842,4,-8.04,3
+"470-Florence-Dr,-Prosper,-TX-75078","470 Florence Dr, Prosper, TX 75078",75078,Condo,New Construction,2,2,2232,,2026,699000,64,313.17,,1,0.0,0
+"471-Florence-Dr,-Prosper,-TX-75078","471 Florence Dr, Prosper, TX 75078",75078,Condo,Standard,2,2,1650,,2024,551000,64,333.94,,1,0.0,0
+"1960-Star-Trace-Pkwy,-Prosper,-TX-75078","1960 Star Trace Pkwy, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3166,12197,2020,899900,64,284.24,0.2596,1,0.0,0
+"2491-Meadowbrook-Blvd,-Prosper,-TX-75078","2491 Meadowbrook Blvd, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3499,8276,2020,850000,63,242.93,0.4228,1,0.0,0
+"1081-Barrington-Dr,-Prosper,-TX-75078","1081 Barrington Dr, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,2679,8451,2009,390000,98,145.58,0.317,1,0.0,0
+"1717-Tahoe-Trl,-Prosper,-TX-75078","1717 Tahoe Trl, Prosper, TX 75078",75078,Single Family,Standard,3,2,1828,9757,2007,430000,98,235.23,0.1874,1,0.0,0
+"760-Walworth-Dr,-Prosper,-TX-75078","760 Walworth Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4,3480,8189,2017,745000,97,214.08,0.425,1,0.0,0
+"3800-Ironwood-Dr,-Prosper,-TX-75078","3800 Ironwood Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3665,8364,2021,875000,97,238.74,0.4382,4,-10.26,3
+"4840-Liberty-Dr,-Prosper,-TX-75078","4840 Liberty Dr, Prosper, TX 75078",75078,Single Family,Standard,5,6,4850,13286,2022,1599000,92,329.69,0.365,1,0.0,0
+"16013-Gladewater-Ter,-Prosper,-TX-75078","16013 Gladewater Ter, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3261,5968,2018,615000,91,188.59,0.5464,1,0.0,0
+"4150-Kestrel-St,-Prosper,-TX-75078","4150 Kestrel St, Prosper, TX 75078",75078,Single Family,Standard,5,4,3568,6534,2023,685000,90,191.98,0.5461,3,-1.44,1
+"15805-Canyon-Rdg,-Prosper,-TX-75078","15805 Canyon Rdg, Prosper, TX 75078",75078,Single Family,Standard,4,3,2049,6098,2016,549900,89,268.37,0.336,1,0.0,0
+"520-Devonshire-Dr,-Prosper,-TX-75078","520 Devonshire Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3641,10894,2010,749950,62,205.97,0.3342,3,-6.25,2
+"260-St-Mark-Ln,-Prosper,-TX-75078","260 St Mark Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3559,10890,2017,889900,62,250.04,0.3268,1,0.0,0
+"461-Highbridge-Ln,-Prosper,-TX-75078","461 Highbridge Ln, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4486,11979,2022,940000,62,209.54,0.3745,2,-3.09,1
+"2121-Normandy-Cir,-Prosper,-TX-75078","2121 Normandy Cir, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4442,12545,2020,1399999,62,315.17,0.3541,1,0.0,0
+"890-Wind-Brook-Ln,-Prosper,-TX-75078","890 Wind Brook Ln, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,3097,8364,2008,625000,62,201.81,0.3703,2,-13.19,1
+"1181-Saint-Peter-Ln,-Prosper,-TX-75078","1181 Saint Peter Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3790,15246,2020,899000,62,237.2,0.2486,1,0.0,0
+"441-Centenary-Dr,-Prosper,-TX-75078","441 Centenary Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3598,15246,2020,1099000,62,305.45,0.236,2,-6.47,1
+"1501-Winchester-Dr,-Prosper,-TX-75078","1501 Winchester Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4575,15072,2015,1100000,62,240.44,0.3035,1,0.0,0
+"601-Livingston-Dr,-Prosper,-TX-75078","601 Livingston Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4,3883,12632,2007,739900,61,190.55,0.3074,1,0.0,0
+"4211-Wilson-Creek-Trl,-Prosper,-TX-75078","4211 Wilson Creek Trl, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3766,10062,2010,789990,61,209.77,0.3743,4,-5.95,3
+"16512-Amistad-Ave,-Prosper,-TX-75078","16512 Amistad Ave, Prosper, TX 75078",75078,Single Family,Standard,4,3,2885,5663,2015,539900,88,187.14,0.5094,1,0.0,0
+"4100-Old-Rosebud-Ln,-Prosper,-TX-75078","4100 Old Rosebud Ln, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4824,11108,2022,1200000,83,248.76,0.4343,1,0.0,0
+"4710-Crossvine-Dr,-Prosper,-TX-75078","4710 Crossvine Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3101,8625,2014,659000,83,212.51,0.3595,1,0.0,0
+"710-Calaveras-Ct,-Prosper,-TX-75078","710 Calaveras Ct, Prosper, TX 75078",75078,Single Family,Standard,5,3.5,3834,12632,2007,735000,60,191.71,0.3035,1,0.0,0
+"340-Columbia-Ct,-Prosper,-TX-75078","340 Columbia Ct, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3911,12589,2013,1299900,60,332.37,0.3107,1,0.0,0
+"2360-Fallsview-Ct,-Prosper,-TX-75078","2360 Fallsview Ct, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4369,10890,2023,1595000,60,365.07,0.4012,1,0.0,0
+"1930-Fair-Oaks-Ln,-Prosper,-TX-75078","1930 Fair Oaks Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,4484,43560,2005,1199000,58,267.4,0.1029,1,0.0,0
+"501-Cloud-View-Ct,-Prosper,-TX-75078","501 Cloud View Ct, Prosper, TX 75078",75078,Single Family,Standard,5,3.5,4499,12197,2005,835000,57,185.6,0.3689,1,0.0,0
+"400-Komron-Ct,-Prosper,-TX-75078","400 Komron Ct, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,2540,10149,2012,649999,56,255.91,0.2503,1,0.0,0
+"2029-Long-Park-Ave,-Prosper,-TX-75078","2029 Long Park Ave, Prosper, TX 75078",75078,Single Family,Standard,3,2.5,2248,6055,2017,500000,82,222.42,0.3713,1,0.0,0
+"4350-Bristleleaf-Ln,-Prosper,-TX-75078","4350 Bristleleaf Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3783,12066,2016,1075000,82,284.17,0.3135,2,-2.27,1
+"1010-Adair-Rd,-Prosper,-TX-75078","1010 Adair Rd, Prosper, TX 75078",75078,Single Family,Standard,4,4,3528,6490,2022,745000,81,211.17,0.5436,1,0.0,0
+"15933-Perdido-Creek-Trl,-Prosper,-TX-75078","15933 Perdido Creek Trl, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3311,7231,2016,558000,78,168.53,0.4579,1,0.0,0
+"821-Kiowa-Dr,-Prosper,-TX-75078","821 Kiowa Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,4187,11326,2007,929900,55,222.09,0.3697,1,0.0,0
+"1430-Havenbrook-Ln,-Prosper,-TX-75078","1430 Havenbrook Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,2749,10019,2016,635000,55,230.99,0.2744,1,0.0,0
+"1170-Olympia-Ln,-Prosper,-TX-75078","1170 Olympia Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4,3914,16901,2018,1349999,56,344.92,0.2316,1,0.0,0
+"614-Creek-View-Dr,-Prosper,-TX-75078","614 Creek View Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3096,12502,2001,595000,55,192.18,0.2476,2,0.0,0
+"1620-Cattle-Dr,-Prosper,-TX-75078","1620 Cattle Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3609,39640,2016,1249000,54,346.08,0.091,1,0.0,0
+"1331-Cedar-Springs-Dr,-Prosper,-TX-75078","1331 Cedar Springs Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,3595,15246,2005,750000,54,208.62,0.2358,1,0.0,0
+"1631-Sunset-Ave,-Prosper,-TX-75078","1631 Sunset Ave, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3671,8276,2021,850000,54,231.54,0.4436,2,-5.56,1
+"16012-Alvarado-Dr,-Prosper,-TX-75078","16012 Alvarado Dr, Prosper, TX 75078",75078,Single Family,Standard,3,2.5,2417,7057,2007,535000,75,221.35,0.3425,2,0.0,0
+"15604-Governors-Island-Way,-Prosper,-TX-75078","15604 Governors Island Way, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3505,6621,2016,669000,71,190.87,0.5294,1,0.0,0
+"1000-Sycamore-Pl,-Prosper,-TX-75078","1000 Sycamore Pl, Prosper, TX 75078",75078,Single Family,Standard,5,4,4012,10585,2022,944000,70,235.29,0.379,2,-5.51,1
+"841-Wind-Brook-Ln,-Prosper,-TX-75078","841 Wind Brook Ln, Prosper, TX 75078",75078,Single Family,Standard,5,3.5,4382,14854,2005,684999,53,156.32,0.295,1,0.0,0
+"3211-Dufour-Dr,-Prosper,-TX-75078","3211 Dufour Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4,3415,12240,2023,829000,54,242.75,0.279,2,-2.47,1
+"4080-Chimney-Rock-Dr,-Prosper,-TX-75078","4080 Chimney Rock Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,5193,12589,2009,1250000,53,240.71,0.4125,1,0.0,0
+"420-St-John-Ln,-Prosper,-TX-75078","420 St John Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4094,11696,2020,1150000,53,280.9,0.35,1,0.0,0
+"2130-Lassen-Dr,-Prosper,-TX-75078","2130 Lassen Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,5060,19428,2022,1150000,52,227.27,0.2604,2,-11.54,1
+"1310-St--Peter-Ln,-Prosper,-TX-75078","1310 St. Peter Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,,3896,,,885950,51,227.4,,12,-7.03,6
+"310-Orion-Dr,-Prosper,-TX-75078","310 Orion Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,6.5,4663,,2026,1374300,50,294.72,,2,-9.07,1
+"521-Twilight-Dr,-Prosper,-TX-75078","521 Twilight Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,7,4895,11761,2025,1339900,50,273.73,0.4162,3,-4.29,2
+"910-Shooting-Star-Dr,-Prosper,-TX-75078","910 Shooting Star Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,,3789,,,989990,50,261.28,,15,13.79,5
+"1405-Snapdragon-Ct,-Prosper,-TX-75078","1405 Snapdragon Ct, Prosper, TX 75078",75078,Single Family,New Construction,4,,2860,,,578990,50,202.44,,18,-10.51,9
+"2610-Acie-Ln,-Prosper,-TX-75078","2610 Acie Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,4.5,3474,,2026,869000,50,250.14,,1,0.0,0
+"691-Morning-Star-Ln,-Prosper,-TX-75078","691 Morning Star Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,6.5,4405,,2025,1247990,50,283.31,,16,-19.05,7
+"2961-Mockingbird-Ln,-Prosper,-TX-75078","2961 Mockingbird Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,,3259,,,774000,50,237.5,,10,13.99,4
+"5501-Peregine-Ln,-Prosper,-TX-75078","5501 Peregine Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3,2860,6970,2019,409900,69,143.32,0.4103,1,0.0,0
+"5621-Crestwood-Dr,-Prosper,-TX-75078","5621 Crestwood Dr, Prosper, TX 75078",75078,Single Family,Standard,3,2,1851,6011,2009,360000,68,194.49,0.3079,1,0.0,0
+"820-Dulaney-Ct,-Prosper,-TX-75078","820 Dulaney Ct, Prosper, TX 75078",75078,Townhouse,Standard,3,2.5,1886,2222,2023,400000,65,212.09,0.8488,1,0.0,0
+"2460-Macy-Way,-Prosper,-TX-75078","2460 Macy Way, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,2540,7187,2023,745000,64,293.31,0.3534,1,0.0,0
+"4440-Liberty-Dr,-Prosper,-TX-75078","4440 Liberty Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,5105,14505,2019,1685000,62,330.07,0.3519,1,0.0,0
+"4351-Berylline-Ln,-Prosper,-TX-75078","4351 Berylline Ln, Prosper, TX 75078",75078,Single Family,Standard,6,4.5,3764,10106,2024,879000,62,233.53,0.3725,1,0.0,0
+"2720-Ambergate-Ln,-Prosper,-TX-75078","2720 Ambergate Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,3847,,2026,1041605,49,270.76,,1,0.0,0
+"681-Morning-Star-Ln,-Prosper,-TX-75078","681 Morning Star Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,,2959,,,889900,49,300.74,,13,-6.81,5
+"2680-Sassafrass-Ct,-Prosper,-TX-75078","2680 Sassafrass Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,3536,,2026,986097,49,278.87,,2,3.85,0
+"2260-Rainforest-Dr,-Prosper,-TX-75078","2260 Rainforest Dr, Prosper, TX 75078",75078,Single Family,Standard,5,6,4029,9148,2022,950000,49,235.79,0.4404,2,-13.63,1
+"681-Capella-Ct,-Prosper,-TX-75078","681 Capella Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4840,11457,2025,1369900,48,283.04,0.4224,1,0.0,0
+"301-Williamsburg-Pl,-Prosper,-TX-75078","301 Williamsburg Pl, Prosper, TX 75078",75078,Single Family,New Construction,5,,4491,,,1201995,48,267.65,,7,15.8,2
+"1720-Lexington-Ave,-Prosper,-TX-75078","1720 Lexington Ave, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3633,16379,2018,1185000,48,326.18,0.2218,1,0.0,0
+"1481-Stony-Trl,-Prosper,-TX-75078","1481 Stony Trl, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4808,32278,2016,1599000,48,332.57,0.149,3,-5.66,2
+"16116-Plum-Ct,-Prosper,-TX-75078","16116 Plum Ct, Prosper, TX 75078",75078,Single Family,Standard,4,3,2396,6229,2017,519900,61,216.99,0.3847,1,0.0,0
+"2560-Shady-Trl,-Prosper,-TX-75078","2560 Shady Trl, Prosper, TX 75078",75078,Single Family,Standard,4,5,4046,9583,2023,915000,61,226.15,0.4222,2,-3.68,1
+"4090-Pequin-Dr,-Prosper,-TX-75078","4090 Pequin Dr, Prosper, TX 75078",75078,Townhouse,Standard,3,3,2078,2788,2017,450000,58,216.55,0.7453,1,0.0,0
+"15813-High-Line-Dr,-Prosper,-TX-75078","15813 High Line Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,2238,5489,2016,450000,56,201.07,0.4077,1,0.0,0
+"3851-Marigold-Ln,-Prosper,-TX-75078","3851 Marigold Ln, Prosper, TX 75078",75078,Townhouse,Standard,2,2,1369,2788,2020,434000,56,317.02,0.491,1,0.0,0
+"1741-Cypress-Lake-Ln,-Prosper,-TX-75078","1741 Cypress Lake Ln, Prosper, TX 75078",75078,Single Family,Standard,5,5,4344,14026,2019,1199000,47,276.01,0.3097,1,0.0,0
+"2620-Acie-Ln,-Prosper,-TX-75078","2620 Acie Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,4.5,3461,,2026,950380,47,274.6,,1,0.0,0
+"3093-Eleanor-Dr,-Prosper,-TX-75078","3093 Eleanor Dr, Prosper, TX 75078",75078,Single Family,New Construction,3,,2301,,,577990,47,251.19,,24,-2.86,11
+"2351-Glen-Heather-Ln,-Prosper,-TX-75078","2351 Glen Heather Ln, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,3918,6970,2022,850000,47,216.95,0.5621,1,0.0,0
+"1411-Maplewood-Dr,-Prosper,-TX-75078","1411 Maplewood Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4,3441,10411,2022,900000,47,261.55,0.3305,1,0.0,0
+"761-Arrowhead-Dr,-Prosper,-TX-75078","761 Arrowhead Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4341,11326,2005,769000,47,177.15,0.3833,2,-5.53,1
+"2710-Sassafrass-Ct,-Prosper,-TX-75078","2710 Sassafrass Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,6,3702,,2026,972990,46,262.83,,1,0.0,0
+"2780-Live-Oak-Ln,-Prosper,-TX-75078","2780 Live Oak Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3700,,2026,1425800,46,385.35,,3,6.88,0
+"971-Fallkirk-Dr,-Prosper,-TX-75078","971 Fallkirk Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5,4231,,2026,983190,46,232.38,,1,0.0,0
+"930-Shooting-Star-Dr,-Prosper,-TX-75078","930 Shooting Star Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,,3517,,,927990,45,263.86,,12,-5.31,5
+"3550-Alabasta-Dr,-Prosper,-TX-75078","3550 Alabasta Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4772,10237,2025,1399000,54,293.17,0.4662,1,0.0,0
+"1310-Crescent-Ln,-Prosper,-TX-75078","1310 Crescent Ln, Prosper, TX 75078",75078,Single Family,Standard,5,4,3598,6621,2022,835000,53,232.07,0.5434,1,0.0,0
+"3631-Whimbrel-Ct,-Prosper,-TX-75078","3631 Whimbrel Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,,4445,,,1144900,50,257.57,,4,12.04,0
+"2044-Montgomery-Ln,-Prosper,-TX-75078","2044 Montgomery Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,3,2600,6098,2025,615000,45,236.54,0.4264,1,0.0,0
+"870-Sagebrush-Dr,-Prosper,-TX-75078","870 Sagebrush Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3864,10019,2014,730000,42,188.92,0.3857,1,0.0,0
+"3140-Barclay-Ln,-Prosper,-TX-75078","3140 Barclay Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3634,10629,2024,1099000,44,302.42,0.3419,2,-8.42,1
+"551-Harrison-Ln,-Prosper,-TX-75078","551 Harrison Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,6,4411,,,1299000,43,294.49,,2,-5.46,1
+"901-Fallkirk-Dr,-Prosper,-TX-75078","901 Fallkirk Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4290,,2026,975400,45,227.37,,1,0.0,0
+"1811-Kyle-Ct,-Prosper,-TX-75078","1811 Kyle Ct, Prosper, TX 75078",75078,Single Family,New Construction,4,,3208,,,1199990,44,374.06,,10,-14.53,6
+"291-Williamsburg-Pl,-Prosper,-TX-75078","291 Williamsburg Pl, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,5967,16270,2026,1434995,44,240.49,0.3667,8,7.41,2
+"131-Nightfall-Dr,-Prosper,-TX-75078","131 Nightfall Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4221,,,1249900,43,296.11,,1,0.0,0
+"730-Dover-Dr,-Prosper,-TX-75078","730 Dover Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3472,7148,2020,835500,43,240.64,0.4857,1,0.0,0
+"2770-Douglas-Ln,-Prosper,-TX-75078","2770 Douglas Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4134,,2026,1131575,43,273.72,,2,0.06,0
+"2671-Harvest-Ln,-Prosper,-TX-75078","2671 Harvest Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,3472,,2026,947490,43,272.89,,1,0.0,0
+"421-Margot-Dr,-Prosper,-TX-75078","421 Margot Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4828,,,1403900,42,290.78,,1,0.0,0
+"100-Twilight-Dr,-Prosper,-TX-75078","100 Twilight Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4221,,,1199900,42,284.27,,5,-4.0,2
+"920-Shooting-Star-Dr,-Prosper,-TX-75078","920 Shooting Star Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,,2312,,,801990,42,346.88,,13,-4.3,7
+"1980-Cornell-Dr,-Prosper,-TX-75078","1980 Cornell Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4042,12197,2021,1395000,42,345.13,0.3314,1,0.0,0
+"2760-Savannah-Rdg,-Prosper,-TX-75078","2760 Savannah Rdg, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,3820,,2026,949720,42,248.62,,1,0.0,0
+"1460-Copper-Point-Dr,-Prosper,-TX-75078","1460 Copper Point Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,4.5,4727,,2025,1498999,42,317.11,,1,0.0,0
+"821-Koby-Cir,-Prosper,-TX-75078","821 Koby Cir, Prosper, TX 75078",75078,Single Family,New Construction,4,,4118,,,1210995,42,294.07,,7,0.83,2
+"591-Lost-Creek-Dr,-Prosper,-TX-75078","591 Lost Creek Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4,4124,10019,2012,785000,42,190.35,0.4116,1,0.0,0
+"810-Country-Brook-Ln,-Prosper,-TX-75078","810 Country Brook Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3,2981,11500,2019,825000,42,276.75,0.2592,3,-10.81,2
+"280-Twilight-Dr,-Prosper,-TX-75078","280 Twilight Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4221,8625,2026,1199900,41,284.27,0.4894,2,-0.5,1
+"105-E-3rd-St,-Prosper,-TX-75078","105 E 3rd St, Prosper, TX 75078",75078,Single Family,Standard,3,1,1352,6970,1946,199000,41,147.19,0.194,1,0.0,0
+"1120-Golden-Sunset-Ct,-Prosper,-TX-75078","1120 Golden Sunset Ct, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3009,10454,2008,650000,41,216.02,0.2878,4,-12.69,2
+"2430-Arcadia-Ct,-Prosper,-TX-75078","2430 Arcadia Ct, Prosper, TX 75078",75078,Single Family,New Construction,4,4,3400,,,1184892,41,348.5,,1,0.0,0
+"1510-Stillhouse-Hollow-Dr,-Prosper,-TX-75078","1510 Stillhouse Hollow Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4949,16553,2017,1500000,41,303.09,0.299,1,0.0,0
+"12B-Rhea-Mills-Cir,-Prosper,-TX-75078","12B Rhea Mills Cir, Prosper, TX 75078",75078,Single Family,Standard,3,2.5,2268,,1984,499000,41,220.02,,1,0.0,0
+"4401-Sandhills-Ln,-Prosper,-TX-75078","4401 Sandhills Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4,3532,9670,2024,885000,50,250.57,0.3653,1,0.0,0
+"3560-Bluebell-Ln,-Prosper,-TX-75078","3560 Bluebell Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,,4319,,,1231900,49,285.23,,1,0.0,0
+"16404-Stillhouse-Hollow-Ct,-Prosper,-TX-75078","16404 Stillhouse Hollow Ct, Prosper, TX 75078",75078,Single Family,Standard,3,2,2063,5489,2015,420000,49,203.59,0.3758,1,0.0,0
+"3770-White-Clover-Ln,-Prosper,-TX-75078","3770 White Clover Ln, Prosper, TX 75078",75078,Townhouse,Standard,2,2,1562,3746,2021,450000,48,288.09,0.417,1,0.0,0
+"3936-Sunrise-Ln,-Prosper,-TX-75078","3936 Sunrise Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,,2959,,,894900,48,302.43,,6,-6.28,2
+"690-Morning-Star-Ln,-Prosper,-TX-75078","690 Morning Star Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,,4009,,,1057900,40,263.88,,14,7.09,6
+"841-Overlook-Dr,-Prosper,-TX-75078","841 Overlook Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,,4137,,,1198900,40,289.8,,16,0.0,7
+"2170-Ivywood-Ln,-Prosper,-TX-75078","2170 Ivywood Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3676,10454,2021,1098000,40,298.69,0.3516,1,0.0,0
+"4417-Fall-Meadow-Dr,-Prosper,-TX-75078","4417 Fall Meadow Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,3,2999,7797,2026,749000,39,249.75,0.3846,1,0.0,0
+"1021-English-Ivy-Dr,-Prosper,-TX-75078","1021 English Ivy Dr, Prosper, TX 75078",75078,Single Family,Standard,5,2.5,2946,7318,2007,410000,47,139.17,0.4026,1,0.0,0
+"1921-Wynne-Ave,-Prosper,-TX-75078","1921 Wynne Ave, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4680,11151,2023,1075000,37,229.7,0.4197,3,-6.52,1
+"2131-Lassen-Dr,-Prosper,-TX-75078","2131 Lassen Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3629,13678,2022,885000,38,243.87,0.2653,2,1.14,0
+"1481-St-Peter-Ln,-Prosper,-TX-75078","1481 St Peter Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,4.5,4488,15006,2025,1450000,37,323.08,0.2991,2,0.0,0
+"531-Callahan-Ct,-Prosper,-TX-75078","531 Callahan Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4513,,,1299000,36,287.84,,2,-4.77,1
+"1440-Copper-Point-Dr,-Prosper,-TX-75078","1440 Copper Point Dr, Prosper, TX 75078",75078,Single Family,New Construction,6,5,5067,,2026,1599000,36,315.57,,1,0.0,0
+"480-Williamsburg-Pl,-Prosper,-TX-75078","480 Williamsburg Pl, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,4256,,,1199000,36,281.72,,1,0.0,0
+"601-Sunbury-Ln,-Prosper,-TX-75078","601 Sunbury Ln, Prosper, TX 75078",75078,Single Family,Standard,5,3,3342,15246,2018,1200000,36,359.07,0.2192,1,0.0,0
+"2620-Harvest-Ln,-Prosper,-TX-75078","2620 Harvest Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3445,,2026,963680,36,279.73,,1,0.0,0
+"2460-Harpole-Rd,-Prosper,-TX-75078","2460 Harpole Rd, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3881,,2026,899990,43,231.9,,2,-7.88,1
+"830-Hackberry-Dr,-Prosper,-TX-75078","830 Hackberry Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,4,4458,,,1367797,43,306.82,,2,-4.63,1
+"821-Oleander-Ln,-Prosper,-TX-75078","821 Oleander Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5,4017,,,1312499,43,326.74,,2,-2.7,1
+"3848-Keya-Dr,-Prosper,-TX-75078","3848 Keya Dr, Prosper, TX 75078",75078,Single Family,New Construction,3,2.5,2249,,,387990,43,172.52,,1,0.0,0
+"Bridges-Drive-&-Crescent-Ln,-Prosper,-TX-75078","Bridges Drive & Crescent Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,,3422,,,778990,43,227.64,,1,0.0,0
+"2550-Whitewood-Dr,-Prosper,-TX-75078","2550 Whitewood Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4362,8712,2024,1249900,43,286.54,0.5007,1,0.0,0
+"2420-Forestbrook-Dr,-Prosper,-TX-75078","2420 Forestbrook Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3790,8276,2023,1098000,43,289.71,0.458,1,0.0,0
+"16501-Stillhouse-Hollow-Ct,-Prosper,-TX-75078","16501 Stillhouse Hollow Ct, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,2704,5619,2016,529000,43,195.64,0.4812,2,-1.86,1
+"1130-Arlong-Park-Dr,-Prosper,-TX-75078","1130 Arlong Park Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4470,,2026,1199900,42,268.43,,3,-6.23,2
+"970-Speargrass-Ln,-Prosper,-TX-75078","970 Speargrass Ln, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,3242,7144,2020,624990,42,192.78,0.4538,3,-10.59,2
+"15513-Bryant-Park-Ave,-Prosper,-TX-75078","15513 Bryant Park Ave, Prosper, TX 75078",75078,Single Family,Standard,4,3,2930,8015,2016,625000,42,213.31,0.3656,1,0.0,0
+"1160-Arlong-Park-Dr,-Prosper,-TX-75078","1160 Arlong Park Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4014,,2026,1064900,41,265.3,,3,-14.19,2
+"2760-Live-Oak-Ln,-Prosper,-TX-75078","2760 Live Oak Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5,4659,,2026,1330705,40,285.62,,1,0.0,0
+"781-Elm-Park-Dr,-Prosper,-TX-75078","781 Elm Park Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3389,7797,2020,690000,40,203.6,0.4347,2,-1.29,1
+"660-Neale-St,-Prosper,-TX-75078","660 Neale St, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4212,12763,2022,1089800,40,258.74,0.33,3,-7.64,2
+"5611-Coventry-Dr,-Prosper,-TX-75078","5611 Coventry Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,2928,6403,2014,424900,40,145.12,0.4573,1,0.0,0
+"1061-Georgetown-Pl,-Prosper,-TX-75078","1061 Georgetown Pl, Prosper, TX 75078",75078,Single Family,New Construction,6,4,4191,,2025,997881,34,238.1,,1,0.0,0
+"1021-Keller-Dr,-Prosper,-TX-75078","1021 Keller Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,6,4201,,,1149900,34,273.72,,1,0.0,0
+"2541-Fountain-St,-Prosper,-TX-75078","2541 Fountain St, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4201,,,1349000,34,321.11,,2,-3.57,1
+"2971-Mockingbird-Ln,-Prosper,-TX-75078","2971 Mockingbird Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,,3505,,,924900,34,263.88,,5,-5.13,2
+"1500-Gentle-Way,-Prosper,-TX-75078","1500 Gentle Way, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4346,49179,1999,1599999,33,368.15,0.0884,1,0.0,0
+"3181-Genevieve-Ln,-Prosper,-TX-75078","3181 Genevieve Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4,3415,11500,2024,935000,32,273.79,0.297,1,0.0,0
+"250-Orion-Dr,-Prosper,-TX-75078","250 Orion Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,6.5,4488,,2026,1399950,32,311.93,,5,3.32,2
+"1510-Beverly-Dr,-Prosper,-TX-75078","1510 Beverly Dr, Prosper, TX 75078",75078,Single Family,New Construction,3,,2894,,,903900,32,312.34,,6,-16.76,3
+"2500-Fountain-St,-Prosper,-TX-75078","2500 Fountain St, Prosper, TX 75078",75078,Single Family,New Construction,5,5,4900,,,1199900,31,244.88,,1,0.0,0
+"2491-Stonybrook-Dr,-Prosper,-TX-75078","2491 Stonybrook Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4,4446,10890,2012,800000,32,179.94,0.4083,4,-3.03,1
+"641-Country-Brook-Ln,-Prosper,-TX-75078","641 Country Brook Ln, Prosper, TX 75078",75078,Single Family,Standard,5,5,4665,11587,2017,1500000,31,321.54,0.4026,1,0.0,0
+"351-Wildwood-Ln,-Prosper,-TX-75078","351 Wildwood Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3664,,,1264900,31,345.22,,1,0.0,0
+"920-Waterview-Dr,-Prosper,-TX-75078","920 Waterview Dr, Prosper, TX 75078",75078,Single Family,Standard,5,3.5,4490,9017,2020,800000,30,178.17,0.4979,1,0.0,0
+"290-Twilight-Dr,-Prosper,-TX-75078","290 Twilight Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4579,,,1203900,29,262.92,,1,0.0,0
+"2641-Archgate-Ct,-Prosper,-TX-75078","2641 Archgate Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,6.5,4488,13939,2026,1575000,29,350.94,0.322,1,0.0,0
+"3661-Whimbrel-Ct,-Prosper,-TX-75078","3661 Whimbrel Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4499,,2026,1274900,39,283.37,,1,0.0,0
+"1332-Hudson-Ln,-Prosper,-TX-75078","1332 Hudson Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3183,7841,2016,669000,39,210.18,0.4059,1,0.0,0
+"4901-Choirs-Dr,-Prosper,-TX-75078","4901 Choirs Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,7,4950,,,1319900,38,266.65,,1,0.0,0
+"4300-Old-Rosebud-Ln,-Prosper,-TX-75078","4300 Old Rosebud Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,5.5,3757,,2026,869900,37,231.54,,7,6.49,3
+"4108-Meander-Way,-Prosper,-TX-75078","4108 Meander Way, Prosper, TX 75078",75078,Single Family,New Construction,5,6,4703,,,1264900,36,268.96,,1,0.0,0
+"4820-Choirs-Dr,-Prosper,-TX-75078","4820 Choirs Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4216,,,1216900,36,288.64,,1,0.0,0
+"2671-Live-Oak-Ln,-Prosper,-TX-75078","2671 Live Oak Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,4.5,4063,,2026,1302880,35,320.67,,1,0.0,0
+"4110-Mill-Pond-Dr,-Prosper,-TX-75078","4110 Mill Pond Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,2760,8668,2024,719000,36,260.51,0.3184,1,0.0,0
+"16133-Plum-Ct,-Prosper,-TX-75078","16133 Plum Ct, Prosper, TX 75078",75078,Single Family,Standard,5,4,3841,5881,2018,649900,35,169.2,0.6531,2,-7.01,1
+"4560-Silver-Spur-Dr,-Prosper,-TX-75078","4560 Silver Spur Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4828,9888,2022,1214900,35,251.64,0.4883,2,10.95,0
+"2691-Compton-Ct,-Prosper,-TX-75078","2691 Compton Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,6,4337,9017,2026,1033790,28,238.37,0.481,1,0.0,0
+"751-Devonshire-Ct,-Prosper,-TX-75078","751 Devonshire Ct, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3225,10062,2016,664900,29,206.17,0.3205,2,-8.29,1
+"1611-Chisholm-Trl,-Prosper,-TX-75078","1611 Chisholm Trl, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4640,14854,2015,899000,29,193.75,0.3124,3,-8.16,2
+"3080-Eleanor-Dr,-Prosper,-TX-75078","3080 Eleanor Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,3,2317,,,569990,28,246.0,,2,1.79,0
+"2141-Normandy-Cir,-Prosper,-TX-75078","2141 Normandy Cir, Prosper, TX 75078",75078,Single Family,Standard,4,4,3436,10803,2019,1175000,28,341.97,0.3181,1,0.0,0
+"1731-Autumnwood-Ct,-Prosper,-TX-75078","1731 Autumnwood Ct, Prosper, TX 75078",75078,Single Family,Standard,5,6,4324,21344,2019,1695000,27,392.0,0.2026,1,0.0,0
+"1761-Elmhurst-Ct,-Prosper,-TX-75078","1761 Elmhurst Ct, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,4021,45085,2004,1150000,28,286.0,0.0892,1,0.0,0
+"1341-Cedar-Lake-Dr,-Prosper,-TX-75078","1341 Cedar Lake Dr, Prosper, TX 75078",75078,Single Family,Standard,4,2,2818,16553,2005,629000,28,223.21,0.1702,1,0.0,0
+"831-Orchard-Dr,-Prosper,-TX-75078","831 Orchard Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,3880,7797,2019,836000,34,215.46,0.4976,1,0.0,0
+"1305-Corona-Ct,-Prosper,-TX-75078","1305 Corona Ct, Prosper, TX 75078",75078,Single Family,Standard,3,2,1890,6804,2014,449999,34,238.09,0.2778,1,0.0,0
+"15713-Canyon-Rdg,-Prosper,-TX-75078","15713 Canyon Rdg, Prosper, TX 75078",75078,Single Family,Standard,4,3,2926,6098,2016,599000,34,204.72,0.4798,1,0.0,0
+"3761-Maxdale-Dr,-Prosper,-TX-75078","3761 Maxdale Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,2642,9104,2019,874900,34,331.15,0.2902,1,0.0,0
+"4740-Zelder-St,-Prosper,-TX-75078","4740 Zelder St, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,4368,10803,2025,1350000,33,309.07,0.4043,1,0.0,0
+"15500-City-Garden-Ln,-Prosper,-TX-75078","15500 City Garden Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3,2949,9540,2016,575000,33,194.98,0.3091,2,-1.71,1
+"2320-Macy-Way,-Prosper,-TX-75078","2320 Macy Way, Prosper, TX 75078",75078,Single Family,Standard,4,3,2525,6882,2023,699000,27,276.83,0.3669,1,0.0,0
+"4280-Whitley-Place-Dr,-Prosper,-TX-75078","4280 Whitley Place Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4491,11761,2012,999900,27,222.65,0.3819,1,0.0,0
+"560-Featherstone-Ln,-Prosper,-TX-75078","560 Featherstone Ln, Prosper, TX 75078",75078,Single Family,Standard,5,4,4838,15115,2018,975000,27,201.53,0.3201,1,0.0,0
+"1301-Packsaddle-Trl,-Prosper,-TX-75078","1301 Packsaddle Trl, Prosper, TX 75078",75078,Single Family,Standard,4,4,4290,10960,2013,899000,26,209.56,0.3914,1,0.0,0
+"2721-Old-Shire-Path-Rd,-Prosper,-TX-75078","2721 Old Shire Path Rd, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,3709,6970,2017,949000,26,255.86,0.5321,1,0.0,0
+"2831-Winfrey-Point-St,-Prosper,-TX-75078","2831 Winfrey Point St, Prosper, TX 75078",75078,Single Family,New Construction,4,4,3438,6098,2026,799000,26,232.4,0.5638,2,-5.89,1
+"170-Bryan-St,-Prosper,-TX-75078","170 Bryan St, Prosper, TX 75078",75078,Single Family,Standard,5,3.5,3265,13939,2005,800000,26,245.02,0.2342,1,0.0,0
+"182-Springbrook-Dr,-Prosper,-TX-75078","182 Springbrook Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4053,10019,2012,824900,26,203.53,0.4045,1,0.0,0
+"2561-Miles-St,-Prosper,-TX-75078","2561 Miles St, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4800,,,1412900,25,294.35,,1,0.0,0
+"2760-Wickford-Ct,-Prosper,-TX-75078","2760 Wickford Ct, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3520,,2026,971170,25,275.9,,1,0.0,0
+"2630-Harvest-Ln,-Prosper,-TX-75078","2630 Harvest Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,5,3433,,2026,992746,23,289.18,,2,5.24,0
+"2961-Eleanor-Dr,-Prosper,-TX-75078","2961 Eleanor Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,3,2317,,,579990,23,250.32,,2,1.4,0
+"1820-Blue-Forest-Dr,-Prosper,-TX-75078","1820 Blue Forest Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,3174,43560,2006,1200000,25,378.07,0.0729,1,0.0,0
+"1031-Keller-Dr,-Prosper,-TX-75078","1031 Keller Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,7,4537,,,1179900,24,260.06,,1,0.0,0
+"208-E-7th-St,-Prosper,-TX-75078","208 E 7th St, Prosper, TX 75078",75078,Single Family,Standard,3,1.5,1343,13939,1977,450000,23,335.07,0.0963,3,-18.18,2
+"1530-Fairmont-Dr,-Prosper,-TX-75078","1530 Fairmont Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3362,11326,2025,1010000,24,300.42,0.2968,2,-6.47,1
+"2701-Compton-Ct,-Prosper,-TX-75078","2701 Compton Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,5,4231,,2026,1014990,23,239.89,,1,0.0,0
+"3780-Newburn-St,-Prosper,-TX-75078","3780 Newburn St, Prosper, TX 75078",75078,Single Family,Standard,4,3,3348,8668,2020,875000,33,261.35,0.3862,1,0.0,0
+"921-Hibiscus-Ct,-Prosper,-TX-75078","921 Hibiscus Ct, Prosper, TX 75078",75078,Single Family,New Construction,6,6.5,6319,,,1779783,31,281.66,,1,0.0,0
+"3728-Meander-Way,-Prosper,-TX-75078","3728 Meander Way, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,4471,,,1149900,30,257.19,,1,0.0,0
+"2921-Renmuir-Dr,-Prosper,-TX-75078","2921 Renmuir Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,2837,7797,2019,599900,29,211.46,0.3639,2,-7.69,1
+"4160-Silver-Spur-Dr,-Prosper,-TX-75078","4160 Silver Spur Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4,3537,7275,2021,850000,29,240.32,0.4862,1,0.0,0
+"4517-Lamplights-Dr,-Prosper,-TX-75078","4517 Lamplights Dr, Prosper, TX 75078",75078,Single Family,New Construction,3,2.5,2249,2919,2025,390990,27,173.85,0.7705,4,-12.72,2
+"921-Partridge-Rd,-Prosper,-TX-75078","921 Partridge Rd, Prosper, TX 75078",75078,Single Family,New Construction,5,,4182,,,944000,27,225.73,,9,-5.51,4
+"321-Pecan-Trl,-Prosper,-TX-75078","321 Pecan Trl, Prosper, TX 75078",75078,Single Family,New Construction,5,5,4635,13068,2025,1600000,27,345.2,0.3547,1,0.0,0
+"4510-Mill-Branch-Dr,-Prosper,-TX-75078","4510 Mill Branch Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3512,12981,2018,2850000,27,811.5,0.2705,1,0.0,0
+"4511-Walnut-Grove-Ln,-Prosper,-TX-75078","4511 Walnut Grove Ln, Prosper, TX 75078",75078,Single Family,Standard,5,3.5,3583,12153,2022,999000,27,278.82,0.2948,3,-16.68,2
+"1000-Speargrass-Ln,-Prosper,-TX-75078","1000 Speargrass Ln, Prosper, TX 75078",75078,Single Family,Standard,5,4,3498,7144,2021,769000,27,219.84,0.4896,1,0.0,0
+"4513-Lamplights-Dr,-Prosper,-TX-75078","4513 Lamplights Dr, Prosper, TX 75078",75078,Single Family,New Construction,3,2.5,2074,,,378990,26,182.73,,2,-5.96,1
+"1020-Hackberry-Dr,-Prosper,-TX-75078","1020 Hackberry Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4814,10454,2026,1279000,26,265.68,0.4605,1,0.0,0
+"1070-Adair-Rd,-Prosper,-TX-75078","1070 Adair Rd, Prosper, TX 75078",75078,Single Family,Standard,4,3,3286,7754,2023,799000,26,243.15,0.4238,1,0.0,0
+"4441-Cotton-Belt-Dr,-Prosper,-TX-75078","4441 Cotton Belt Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3595,17380,2020,1250000,26,347.71,0.2068,1,0.0,0
+"3610-Bluebell-Ln,-Prosper,-TX-75078","3610 Bluebell Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,,4422,,,1099000,23,248.53,,11,14.84,5
+"4565-Lamplights-Dr,-Prosper,-TX-75078","4565 Lamplights Dr, Prosper, TX 75078",75078,Single Family,New Construction,3,,2249,,,506990,23,225.43,,3,10.94,0
+"3400-Poppy-Pl,-Prosper,-TX-75078","3400 Poppy Pl, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4671,10454,2026,1249000,22,267.39,0.4468,1,0.0,0
+"1121-Crescent-Ln,-Prosper,-TX-75078","1121 Crescent Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,3593,,2026,938000,21,261.06,,10,26.08,4
+"5501-Manitou-Dr,-Prosper,-TX-75078","5501 Manitou Dr, Prosper, TX 75078",75078,Single Family,Standard,4,2,2279,6795,2008,475000,21,208.42,0.3354,1,0.0,0
+"2740-Live-Oak-Ln,-Prosper,-TX-75078","2740 Live Oak Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5,4446,,2026,1299990,20,292.4,,1,0.0,0
+"2131-Normandy-Cir,-Prosper,-TX-75078","2131 Normandy Cir, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3795,10280,2020,1060000,23,279.31,0.3692,1,0.0,0
+"3040-Corvara-Dr,-Prosper,-TX-75078","3040 Corvara Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,3,2317,,,566990,22,244.71,,1,0.0,0
+"391-Williamsburg-Pl,-Prosper,-TX-75078","391 Williamsburg Pl, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4509,,,1349000,22,299.18,,1,0.0,0
+"1561-Pepperdine-Pl,-Prosper,-TX-75078","1561 Pepperdine Pl, Prosper, TX 75078",75078,Single Family,New Construction,5,4,3941,12502,2026,924000,22,234.46,0.3152,2,-2.73,1
+"811-Shackleford-Ln,-Prosper,-TX-75078","811 Shackleford Ln, Prosper, TX 75078",75078,Single Family,Standard,5,6.5,5516,12589,2018,1725000,22,312.73,0.4382,1,0.0,0
+"3042-Corvara-Dr,-Prosper,-TX-75078","3042 Corvara Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,3,2301,,,567990,21,246.84,,1,0.0,0
+"2963-Eleanor-Dr,-Prosper,-TX-75078","2963 Eleanor Dr, Prosper, TX 75078",75078,Single Family,New Construction,3,2.5,2041,,,559990,21,274.37,,1,0.0,0
+"151-Pomona-Crk,-Prosper,-TX-75078","151 Pomona Crk, Prosper, TX 75078",75078,Townhouse,New Construction,2,2,1650,,2026,524990,21,318.18,,1,0.0,0
+"2630-Live-Oak-Ln,-Prosper,-TX-75078","2630 Live Oak Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3522,,,1099900,20,312.29,,2,-11.65,1
+"941-Webb-Ln,-Prosper,-TX-75078","941 Webb Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3461,10237,2022,1200000,20,346.72,0.3381,1,0.0,0
+"15920-Alvarado-Dr,-Prosper,-TX-75078","15920 Alvarado Dr, Prosper, TX 75078",75078,Single Family,Standard,3,2.5,2431,4400,2006,419000,20,172.36,0.5525,1,0.0,0
+"3651-Whimbrel-Ct,-Prosper,-TX-75078","3651 Whimbrel Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4470,,2026,1249078,19,279.44,,1,0.0,0
+"1541-Havenbrook-Ln,-Prosper,-TX-75078","1541 Havenbrook Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3018,9975,2013,664900,20,220.31,0.3026,4,-8.29,2
+"1001-Willowgate-Dr,-Prosper,-TX-75078","1001 Willowgate Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,3812,16117,2002,698990,20,183.37,0.2365,1,0.0,0
+"1540-Fairmont-Dr,-Prosper,-TX-75078","1540 Fairmont Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,5,4125,10616,2025,1050000,20,254.55,0.3886,3,-9.94,2
+"2631-Winfrey-Point-St,-Prosper,-TX-75078","2631 Winfrey Point St, Prosper, TX 75078",75078,Single Family,New Construction,4,3,3287,6098,2026,829000,19,252.21,0.539,3,-5.69,2
+"861-Manchester-Ave,-Prosper,-TX-75078","861 Manchester Ave, Prosper, TX 75078",75078,Single Family,Standard,3,3,2969,7144,2019,750000,20,252.61,0.4156,1,0.0,0
+"341-Harrison-Ln,-Prosper,-TX-75078","341 Harrison Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4759,12981,2026,1500000,19,315.19,0.3666,2,9.73,0
+"1440-Winding-Creek-Rd,-Prosper,-TX-75078","1440 Winding Creek Rd, Prosper, TX 75078",75078,Single Family,Standard,5,6,6122,117699,2001,2899000,20,473.54,0.052,1,0.0,0
+"1470-Havenbrook-Ln,-Prosper,-TX-75078","1470 Havenbrook Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3546,10019,2015,765000,20,215.74,0.3539,1,0.0,0
+"2941-Eleanor-Dr,-Prosper,-TX-75078","2941 Eleanor Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,3,2317,,,552990,19,238.67,,1,0.0,0
+"851-White-River-Dr,-Prosper,-TX-75078","851 White River Dr, Prosper, TX 75078",75078,Single Family,Standard,6,4,3663,10890,2010,699000,19,190.83,0.3364,2,-1.55,1
+"1551-Fairmont-Dr,-Prosper,-TX-75078","1551 Fairmont Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,3.5,2894,12632,2025,970000,19,335.18,0.2291,4,-8.14,2
+"2890-Bluegill-Ln,-Prosper,-TX-75078","2890 Bluegill Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3448,6621,2020,795000,19,230.57,0.5208,3,-9.14,2
+"4250-Mill-Branch-Dr,-Prosper,-TX-75078","4250 Mill Branch Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,3895,10411,2021,875000,19,224.65,0.3741,5,-12.41,3
+"800-Agave-Dr,-Prosper,-TX-75078","800 Agave Dr, Prosper, TX 75078",75078,Single Family,Standard,3,2,2498,8233,2020,660000,19,264.21,0.3034,1,0.0,0
+"841-Rosso-Dr,-Prosper,-TX-75078","841 Rosso Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3893,,2026,999990,18,256.87,,2,-7.07,1
+"2541-Canary-Grass-Ln,-Prosper,-TX-75078","2541 Canary Grass Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3294,7623,2020,699000,18,212.2,0.4321,1,0.0,0
+"1650-Chisholm-Trl,-Prosper,-TX-75078","1650 Chisholm Trl, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4042,13852,2016,750000,19,185.55,0.2918,2,-10.61,1
+"2201-Arbol-Way,-Prosper,-TX-75078","2201 Arbol Way, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,4445,10106,2013,810000,18,182.23,0.4398,1,0.0,0
+"2640-Live-Oak-Ln,-Prosper,-TX-75078","2640 Live Oak Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4221,,,1249900,17,296.11,,3,-3.85,1
+"981-Georgetown-Pl,-Prosper,-TX-75078","981 Georgetown Pl, Prosper, TX 75078",75078,Single Family,New Construction,6,4,3977,,2025,1009950,17,253.95,,1,0.0,0
+"1661-Pepperdine-Pl,-Prosper,-TX-75078","1661 Pepperdine Pl, Prosper, TX 75078",75078,Single Family,New Construction,6,4,3977,,2025,998950,17,251.18,,1,0.0,0
+"590-Harrison-Ln,-Prosper,-TX-75078","590 Harrison Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,5266,,,1599000,17,303.65,,1,0.0,0
+"1700-Pepperdine-Pl,-Prosper,-TX-75078","1700 Pepperdine Pl, Prosper, TX 75078",75078,Single Family,New Construction,5,4,3878,,2025,998950,16,257.59,,1,0.0,0
+"2201-Bradford-Dr,-Prosper,-TX-75078","2201 Bradford Dr, Prosper, TX 75078",75078,Single Family,Standard,4,2,2699,43560,1999,735000,16,272.32,0.062,2,6.52,0
+"2943-Eleanor-Dr,-Prosper,-TX-75078","2943 Eleanor Dr, Prosper, TX 75078",75078,Single Family,New Construction,3,2.5,2163,,,544990,15,251.96,,1,0.0,0
+"1741-Kyle-Ct,-Prosper,-TX-75078","1741 Kyle Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,,4363,,,1189990,16,272.75,,7,0.85,2
+"910-Keller-Dr,-Prosper,-TX-75078","910 Keller Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4449,,,1199900,14,269.7,,1,0.0,0
+"961-Georgetown-Pl,-Prosper,-TX-75078","961 Georgetown Pl, Prosper, TX 75078",75078,Single Family,New Construction,6,4,4177,,2026,1019950,14,244.18,,1,0.0,0
+"820-Shackleford-Ln,-Prosper,-TX-75078","820 Shackleford Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3784,12589,2019,1295000,14,342.23,0.3006,1,0.0,0
+"2720-Acie-Ln,-Prosper,-TX-75078","2720 Acie Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4065,,2026,968705,14,238.3,,2,-4.81,1
+"2670-Sassafrass-Ct,-Prosper,-TX-75078","2670 Sassafrass Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,3748,,2026,950000,14,253.47,,1,0.0,0
+"600-Thompson-St,-Prosper,-TX-75078","600 Thompson St, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4543,,,1349000,14,296.94,,3,-5.33,2
+"251-Twilight-Dr,-Prosper,-TX-75078","251 Twilight Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3080,,,999900,13,324.64,,4,-8.34,2
+"2058-Wimberley-Dr,-Prosper,-TX-75078","2058 Wimberley Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,2532,6098,2024,599000,13,236.57,0.4152,4,-23.22,3
+"301-Florence-Dr,-Prosper,-TX-75078","301 Florence Dr, Prosper, TX 75078",75078,Single Family,Standard,3,3,3003,7492,2023,850000,13,283.05,0.4008,1,0.0,0
+"180-Crown-Colony-Dr,-Prosper,-TX-75078","180 Crown Colony Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3561,10019,2007,679900,13,190.93,0.3554,1,0.0,0
+"2780-Winfrey-Point-St,-Prosper,-TX-75078","2780 Winfrey Point St, Prosper, TX 75078",75078,Single Family,New Construction,4,3.5,3264,6098,2026,861000,12,263.79,0.5353,1,0.0,0
+"3510-Amberwood-Ln,-Prosper,-TX-75078","3510 Amberwood Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4,4597,174240,2001,2299900,13,500.3,0.0264,2,-6.13,1
+"2700-Archgate-Ct,-Prosper,-TX-75078","2700 Archgate Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,4.5,4063,,2027,1298703,17,319.64,,1,0.0,0
+"3460-Poppy-Pl,-Prosper,-TX-75078","3460 Poppy Pl, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,5183,,,1565326,16,302.01,,1,0.0,0
+"16429-Stillhouse-Hollow-Ct,-Prosper,-TX-75078","16429 Stillhouse Hollow Ct, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,2554,5489,2016,499000,16,195.38,0.4653,1,0.0,0
+"2540-Harpole-Rd,-Prosper,-TX-75078","2540 Harpole Rd, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4182,,2026,999990,16,239.12,,1,0.0,0
+"4211-Walnut-Grove-Ln,-Prosper,-TX-75078","4211 Walnut Grove Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3451,7144,2021,869000,15,251.81,0.4831,1,0.0,0
+"16721-Millenium-Park-Pl,-Prosper,-TX-75078","16721 Millenium Park Pl, Prosper, TX 75078",75078,Single Family,Standard,5,4,3476,11413,2016,599900,14,172.58,0.3046,2,-9.38,1
+"2480-Harpole-Rd,-Prosper,-TX-75078","2480 Harpole Rd, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3893,,2026,929990,13,238.89,,1,0.0,0
+"1260-Packsaddle-Trl,-Prosper,-TX-75078","1260 Packsaddle Trl, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3656,11369,2011,874900,12,239.31,0.3216,1,0.0,0
+"2090-Windomere-Dr,-Prosper,-TX-75078","2090 Windomere Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,5613,13504,2020,1600000,12,285.05,0.4157,1,0.0,0
+"1031-Fox-Bend-Way,-Prosper,-TX-75078","1031 Fox Bend Way, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4933,16771,2013,1074999,12,217.92,0.2941,2,-0.46,1
+"1041-White-Crest-Ln,-Prosper,-TX-75078","1041 White Crest Ln, Prosper, TX 75078",75078,Single Family,Standard,5,6,4417,12023,2014,959000,12,217.12,0.3674,1,0.0,0
+"2731-Douglas-Ln,-Prosper,-TX-75078","2731 Douglas Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4330,,2026,1096220,11,253.17,,1,0.0,0
+"4550-Honeyvine-Ln,-Prosper,-TX-75078","4550 Honeyvine Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,5164,13765,2015,1389000,13,268.98,0.3752,2,-4.21,1
+"16509-Dry-Creek-Blvd,-Prosper,-TX-75078","16509 Dry Creek Blvd, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,2804,5837,2017,600000,13,213.98,0.4804,1,0.0,0
+"1571-Temple-Ct,-Prosper,-TX-75078","1571 Temple Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,4.5,4125,11326,2026,1040000,11,252.12,0.3642,1,0.0,0
+"1711-Wichita-Dr,-Prosper,-TX-75078","1711 Wichita Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4640,12632,2019,1190000,10,256.47,0.3673,1,0.0,0
+"3931-Marigold-Ln,-Prosper,-TX-75078","3931 Marigold Ln, Prosper, TX 75078",75078,Townhouse,Standard,2,2,1366,4704,2021,395000,13,289.17,0.2904,1,0.0,0
+"2750-Live-Oak-Ln,-Prosper,-TX-75078","2750 Live Oak Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3628,,2026,1150990,12,317.25,,1,0.0,0
+"5650-Lincolnwood-Dr,-Prosper,-TX-75078","5650 Lincolnwood Dr, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,2263,7492,2009,336000,12,148.48,0.3021,2,1.82,0
+"2700-Live-Oak-Ln,-Prosper,-TX-75078","2700 Live Oak Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,5.5,3703,11874,2026,1049995,11,283.55,0.3119,1,0.0,0
+"991-Waterview-Dr,-Prosper,-TX-75078","991 Waterview Dr, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,2668,10846,2017,685000,10,256.75,0.246,2,0.75,0
+"981-Stanford-Ln,-Prosper,-TX-75078","981 Stanford Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,4,3940,12502,2024,927406,10,235.38,0.3151,1,0.0,0
+"1321-Duke-Dr,-Prosper,-TX-75078","1321 Duke Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,4,3960,13068,2024,889950,10,224.73,0.303,1,0.0,0
+"271-Twilight-Dr,-Prosper,-TX-75078","271 Twilight Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5,3935,,,1099900,9,279.52,,1,0.0,0
+"131-Darian-Dr,-Prosper,-TX-75078","131 Darian Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,3750,10280,2016,739000,104,197.07,0.3648,1,0.0,0
+"1521-Latigo-Ct,-Prosper,-TX-75078","1521 Latigo Ct, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4888,18208,2017,1699000,104,347.59,0.2685,1,0.0,0
+"630-Table-Rock-Dr,-Prosper,-TX-75078","630 Table Rock Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4,3743,12632,2003,675000,104,180.34,0.2963,1,0.0,0
+"501-Morgan-Ln,-Prosper,-TX-75078","501 Morgan Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4003,10803,2019,1369000,104,341.99,0.3705,1,0.0,0
+"611-Falls-Dr,-Prosper,-TX-75078","611 Falls Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3878,,2026,989000,8,255.03,,1,0.0,0
+"4080-Berylline-Ln,-Prosper,-TX-75078","4080 Berylline Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4415,,2026,1299900,9,294.43,,2,-3.0,1
+"2440-Dena-Dr,-Prosper,-TX-75078","2440 Dena Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4204,10542,2025,1189000,9,282.83,0.3988,2,-13.05,1
+"2490-Stonybrook-Dr,-Prosper,-TX-75078","2490 Stonybrook Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4,4766,15246,2015,852500,110,178.87,0.3126,3,-22.43,2
+"2130-Ivywood-Ln,-Prosper,-TX-75078","2130 Ivywood Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4574,10454,2021,995000,110,217.53,0.4375,2,-17.08,1
+"1000-Chapala-Ct,-Prosper,-TX-75078","1000 Chapala Ct, Prosper, TX 75078",75078,Single Family,Standard,6,3.5,3072,17424,2006,599900,110,195.28,0.1763,1,0.0,0
+"1950-Foxglen-Dr,-Prosper,-TX-75078","1950 Foxglen Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,2603,8102,2019,715000,111,274.68,0.3213,1,0.0,0
+"991-Caribou-Dr,-Prosper,-TX-75078","991 Caribou Dr, Prosper, TX 75078",75078,Single Family,Standard,3,3,3226,14810,2012,874900,113,271.2,0.2178,1,0.0,0
+"1580-Star-Creek-Dr,-Prosper,-TX-75078","1580 Star Creek Dr, Prosper, TX 75078",75078,Single Family,Standard,3,2,2105,9148,2018,575000,111,273.16,0.2301,1,0.0,0
+"1751-Silverleaf-Ct,-Prosper,-TX-75078","1751 Silverleaf Ct, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,5328,43560,2004,1549000,113,290.73,0.1223,1,0.0,0
+"2901-Quinton-St,-Prosper,-TX-75078","2901 Quinton St, Prosper, TX 75078",75078,Single Family,Standard,4,3,2317,7884,2023,639000,114,275.79,0.2939,2,-11.86,1
+"509-E-1st-St,-Prosper,-TX-75078","509 E 1st St, Prosper, TX 75078",75078,Single Family,Standard,3,2,1336,10454,1982,390000,113,291.92,0.1278,1,0.0,0
+"631-Twilight-Dr,-Prosper,-TX-75078","631 Twilight Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,5,3411,,2026,1199995,8,351.8,,4,-5.53,2
+"2771-Wickford-Ct,-Prosper,-TX-75078","2771 Wickford Ct, Prosper, TX 75078",75078,Single Family,New Construction,5,5,4231,,2026,1022430,8,241.65,,2,0.11,0
+"291-Orion-Dr,-Prosper,-TX-75078","291 Orion Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3700,,2026,1156800,8,312.65,,1,0.0,0
+"1170-Arlong-Park-Dr,-Prosper,-TX-75078","1170 Arlong Park Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,4,3279,,2027,1065169,8,324.85,,1,0.0,0
+"4051-Gambel-Rd,-Prosper,-TX-75078","4051 Gambel Rd, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4445,,2026,1355458,8,304.94,,1,0.0,0
+"191-Pomona-Crk,-Prosper,-TX-75078","191 Pomona Crk, Prosper, TX 75078",75078,Condo,New Construction,2,2,1884,,2026,565000,8,299.89,,2,-1.29,1
+"3410-Briarcliff-Dr,-Prosper,-TX-75078","3410 Briarcliff Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4609,12240,2018,1300000,8,282.06,0.3766,2,0.0,0
+"221-Chapel-Hill-Dr,-Prosper,-TX-75078","221 Chapel Hill Dr, Prosper, TX 75078",75078,Single Family,Standard,5,3.5,3182,9583,2005,745000,8,234.13,0.332,2,16.86,0
+"1030-Gentle-Knoll-Ln,-Prosper,-TX-75078","1030 Gentle Knoll Ln, Prosper, TX 75078",75078,Single Family,Standard,5,4,3561,6970,2020,750000,117,210.61,0.5109,1,0.0,0
+"1208-Chandler-Cir,-Prosper,-TX-75078","1208 Chandler Cir, Prosper, TX 75078",75078,Single Family,Standard,4,3,3316,44083,1998,1129999,117,340.77,0.0752,2,-1.74,1
+"1501-Kirkwood-Ln,-Prosper,-TX-75078","1501 Kirkwood Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3229,9344,2012,685950,118,212.43,0.3456,1,0.0,0
+"2180-Ivywood-Ln,-Prosper,-TX-75078","2180 Ivywood Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3469,10454,2021,1049900,118,302.65,0.3318,1,0.0,0
+"1650-Oakcrest-Dr,-Prosper,-TX-75078","1650 Oakcrest Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,2974,8276,2019,825000,118,277.4,0.3594,2,-3.51,1
+"1181-Terrace-Manor-Dr,-Prosper,-TX-75078","1181 Terrace Manor Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,4119,14593,2004,1099999,118,267.05,0.2823,2,-2.22,1
+"1000-Cliff-Creek-Dr,-Prosper,-TX-75078","1000 Cliff Creek Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4256,18949,2017,1299999,118,305.45,0.2246,1,0.0,0
+"381-Komron-Ct,-Prosper,-TX-75078","381 Komron Ct, Prosper, TX 75078",75078,Single Family,Standard,4,3,3084,10193,2012,650000,118,210.77,0.3026,1,0.0,0
+"980-Waterview-Dr,-Prosper,-TX-75078","980 Waterview Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,2880,10149,2017,649900,119,225.66,0.2838,1,0.0,0
+"1641-Cottonwood-Trl,-Prosper,-TX-75078","1641 Cottonwood Trl, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3618,11761,2020,949900,125,262.55,0.3076,1,0.0,0
+"2901-Lakeview-Dr,-Prosper,-TX-75078","2901 Lakeview Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,5412,44431,2005,1799000,124,332.41,0.1218,3,-14.13,2
+"2721-Rotherham-St,-Prosper,-TX-75078","2721 Rotherham St, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,2873,8494,2023,759990,128,264.53,0.3382,1,0.0,0
+"2890-Quinton-St,-Prosper,-TX-75078","2890 Quinton St, Prosper, TX 75078",75078,Single Family,Standard,5,3,3081,9409,2021,649000,131,210.65,0.3275,1,0.0,0
+"311-Twilight-Dr,-Prosper,-TX-75078","311 Twilight Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,3.5,2957,,,999900,7,338.15,,2,-9.26,1
+"971-Georgetown-Pl,-Prosper,-TX-75078","971 Georgetown Pl, Prosper, TX 75078",75078,Single Family,New Construction,5,4,4295,,2025,1019950,7,237.47,,1,0.0,0
+"2670-Archgate-Ct,-Prosper,-TX-75078","2670 Archgate Ct, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3716,,2026,1399000,7,376.48,,1,0.0,0
+"321-Atherton-Ct,-Prosper,-TX-75078","321 Atherton Ct, Prosper, TX 75078",75078,Single Family,Standard,6,5.5,4564,10367,2023,1295000,7,283.74,0.4402,1,0.0,0
+"4020-Chimney-Rock-Dr,-Prosper,-TX-75078","4020 Chimney Rock Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3,3104,18034,2014,899999,131,289.95,0.1721,1,0.0,0
+"200-Miramar-Dr,-Prosper,-TX-75078","200 Miramar Dr, Prosper, TX 75078",75078,Single Family,Standard,5,6,5200,14375,2023,2000000,131,384.62,0.3617,1,0.0,0
+"850-Woodview-Dr,-Prosper,-TX-75078","850 Woodview Dr, Prosper, TX 75078",75078,Single Family,Standard,3,2,2110,8102,2009,579000,132,274.41,0.2604,1,0.0,0
+"1400-Buckskin-Trl,-Prosper,-TX-75078","1400 Buckskin Trl, Prosper, TX 75078",75078,Single Family,Standard,5,4,5065,20168,2016,1775000,133,350.44,0.2511,1,0.0,0
+"1891-Fostermill-Dr,-Prosper,-TX-75078","1891 Fostermill Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3870,18557,2013,1145000,138,295.87,0.2085,1,0.0,0
+"9A-Rhea-Mills-Cir,-Prosper,-TX-75078","9A Rhea Mills Cir, Prosper, TX 75078",75078,Single Family,Standard,3,2,2391,43560,1985,625000,138,261.4,0.0549,3,0.81,1
+"731-Country-Brook-Ln,-Prosper,-TX-75078","731 Country Brook Ln, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3553,10803,2020,1395000,138,392.63,0.3289,2,-1.75,1
+"881-Sibyl-Ln,-Prosper,-TX-75078","881 Sibyl Ln, Prosper, TX 75078",75078,Single Family,Standard,4,2,2356,22738,2004,499000,138,211.8,0.1036,1,0.0,0
+"881-Twin-Buttes-Dr,-Prosper,-TX-75078","881 Twin Buttes Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4,4165,10019,2012,719000,139,172.63,0.4157,1,0.0,0
+"201-Kingsbury-Ln,-Prosper,-TX-75078","201 Kingsbury Ln, Prosper, TX 75078",75078,Single Family,Standard,5,4,4083,10890,2017,849950,140,208.17,0.3749,1,0.0,0
+"900-Blue-Ridge-Dr,-Prosper,-TX-75078","900 Blue Ridge Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4515,10977,2013,949999,143,210.41,0.4113,1,0.0,0
+"1410-Binkley-Ave,-Prosper,-TX-75078","1410 Binkley Ave, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3411,12415,2021,1025000,145,300.5,0.2747,2,-8.89,1
+"1001-Jessica-Ln,-Prosper,-TX-75078","1001 Jessica Ln, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4668,14810,2014,975000,144,208.87,0.3152,1,0.0,0
+"2320-Lewis-Canyon-Dr,-Prosper,-TX-75078","2320 Lewis Canyon Dr, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,4127,12197,2016,750000,148,181.73,0.3384,1,0.0,0
+"350-Pearland-Dr,-Prosper,-TX-75078","350 Pearland Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4262,10280,2022,1075000,8,252.23,0.4146,2,0.47,0
+"2450-Heathrow-Ln,-Prosper,-TX-75078","2450 Heathrow Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4372,,,1249000,8,285.68,,1,0.0,0
+"4851-Lopiano-St,-Prosper,-TX-75078","4851 Lopiano St, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,4653,12894,2023,1550000,8,333.12,0.3609,1,0.0,0
+"2631-Harvest-Ln,-Prosper,-TX-75078","2631 Harvest Ln, Prosper, TX 75078",75078,Single Family,New Construction,4,3,3055,,2026,850000,6,278.23,,2,-2.86,1
+"205-E-2nd-St,-Prosper,-TX-75078","205 E 2nd St, Prosper, TX 75078",75078,Single Family,Standard,4,2,1433,12676,1965,460000,6,321.0,0.113,1,0.0,0
+"2101-Nocona-Dr,-Prosper,-TX-75078","2101 Nocona Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4,4269,11979,2013,895000,6,209.65,0.3564,1,0.0,0
+"2120-Meadow-View-Dr,-Prosper,-TX-75078","2120 Meadow View Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4147,39248,2011,1674900,6,403.88,0.1057,2,11.73,0
+"500-Lake-Trail-Ln,-Prosper,-TX-75078","500 Lake Trail Ln, Prosper, TX 75078",75078,Single Family,Standard,5,4,3412,10454,2017,775000,6,227.14,0.3264,1,0.0,0
+"1500-Beverly-Dr,-Prosper,-TX-75078","1500 Beverly Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,4449,13765,2024,1500000,6,337.15,0.3232,5,39.42,2
+"4261-Mesa-Dr,-Prosper,-TX-75078","4261 Mesa Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4,3999,10019,2014,1068000,6,267.07,0.3991,2,-7.05,1
+"150-Twilight-Dr,-Prosper,-TX-75078","150 Twilight Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5,3998,,,1024900,5,256.35,,3,-6.82,1
+"4650-Silver-Cliff-Dr,-Prosper,-TX-75078","4650 Silver Cliff Dr, Prosper, TX 75078",75078,Single Family,Standard,5,6,4760,13068,2022,1495000,6,314.08,0.3642,2,-0.33,1
+"4101-Kestrel-St,-Prosper,-TX-75078","4101 Kestrel St, Prosper, TX 75078",75078,Single Family,Standard,5,4,3450,7013,2024,769000,6,222.9,0.4919,2,-0.13,1
+"2171-Longmont-Ln,-Prosper,-TX-75078","2171 Longmont Ln, Prosper, TX 75078",75078,Single Family,Standard,4,3.5,3606,12023,2019,1079000,153,299.22,0.2999,1,0.0,0
+"303-E-6th-St,-Prosper,-TX-75078","303 E 6th St, Prosper, TX 75078",75078,Single Family,Standard,3,2,1718,12197,1984,459900,152,267.69,0.1409,1,0.0,0
+"4251-Wilson-Creek-Trl,-Prosper,-TX-75078","4251 Wilson Creek Trl, Prosper, TX 75078",75078,Single Family,Standard,5,5,4200,10585,2008,949000,153,225.95,0.3968,2,-17.41,1
+"2000-Harvard-Ave,-Prosper,-TX-75078","2000 Harvard Ave, Prosper, TX 75078",75078,Single Family,Standard,4,4.5,3216,12066,2020,964500,154,299.91,0.2665,1,0.0,0
+"831-Texcoco-Dr,-Prosper,-TX-75078","831 Texcoco Dr, Prosper, TX 75078",75078,Single Family,Standard,4,4,3810,11761,2005,780000,166,204.72,0.324,1,0.0,0
+"2001-Pebble-Creek-Dr,-Prosper,-TX-75078","2001 Pebble Creek Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,6,6658,51479,2027,4900000,170,735.96,0.1293,2,516.35,0
+"2310-Red-Cedar-Trl,-Prosper,-TX-75078","2310 Red Cedar Trl, Prosper, TX 75078",75078,Single Family,Standard,4,5,4087,8712,2022,920000,169,225.1,0.4691,2,-14.42,1
+"1311-Armstrong-Ln,-Prosper,-TX-75078","1311 Armstrong Ln, Prosper, TX 75078",75078,Single Family,Standard,4,5.5,4334,11456,2022,1025000,174,236.5,0.3783,1,0.0,0
+"1120-Whirlabout-Rd,-Prosper,-TX-75078","1120 Whirlabout Rd, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4499,,2026,1179900,5,262.26,,1,0.0,0
+"1401-Snapdragon-Ct,-Prosper,-TX-75078","1401 Snapdragon Ct, Prosper, TX 75078",75078,Single Family,New Construction,4,4.5,3686,,2020,899990,5,244.16,,1,0.0,0
+"1225-Chandler-Cir,-Prosper,-TX-75078","1225 Chandler Cir, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,3091,78147,2005,1169900,180,378.49,0.0396,2,-24.52,1
+"1001-Bridgeport-Ln,-Prosper,-TX-75078","1001 Bridgeport Ln, Prosper, TX 75078",75078,Single Family,Standard,4,2.5,3670,13939,2005,739900,182,201.61,0.2633,1,0.0,0
+"1870-Star-Trace-Pkwy,-Prosper,-TX-75078","1870 Star Trace Pkwy, Prosper, TX 75078",75078,Single Family,Standard,5,4.5,4636,12197,2020,1395000,190,300.91,0.3801,1,0.0,0
+"1218-Chandler-Cir,-Prosper,-TX-75078","1218 Chandler Cir, Prosper, TX 75078",75078,Single Family,Standard,4,3,2657,44213,1998,769000,5,289.42,0.0601,1,0.0,0
+"2750-Amber-Ln,-Prosper,-TX-75078","2750 Amber Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,6,4113,,2026,1127900,4,274.23,,1,0.0,0
+"2701-Savannah-Rdg,-Prosper,-TX-75078","2701 Savannah Rdg, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,3847,,2026,990530,4,257.48,,1,0.0,0
+"2780-Amber-Ln,-Prosper,-TX-75078","2780 Amber Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,4124,,2026,999000,4,242.24,,2,-11.27,1
+"2681-Sassafrass-Ct,-Prosper,-TX-75078","2681 Sassafrass Ct, Prosper, TX 75078",75078,Single Family,New Construction,4,4,3385,,2026,849000,4,250.81,,2,-7.6,1
+"921-Gaston-Rd,-Prosper,-TX-75078","921 Gaston Rd, Prosper, TX 75078",75078,Single Family,New Construction,5,7,4499,,,1199900,4,266.7,,1,0.0,0
+"950-Heatherbrook-Dr,-Prosper,-TX-75078","950 Heatherbrook Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,5.5,3900,,2026,899000,4,230.51,,1,0.0,0
+"2611-Acie-Ln,-Prosper,-TX-75078","2611 Acie Ln, Prosper, TX 75078",75078,Single Family,New Construction,5,4.5,3778,,2026,899000,4,237.96,,1,0.0,0
+"940-Heatherbrook-Dr,-Prosper,-TX-75078","940 Heatherbrook Dr, Prosper, TX 75078",75078,Single Family,New Construction,5,4.5,3778,,2026,889000,4,235.31,,1,0.0,0
+"271-Orion-Dr,-Prosper,-TX-75078","271 Orion Dr, Prosper, TX 75078",75078,Single Family,New Construction,4,5,3516,,2026,1225300,4,348.49,,1,0.0,0
+"1140-Norfolk-Dr,-Prosper,-TX-75078","1140 Norfolk Dr, Prosper, TX 75078",75078,Single Family,Standard,5,4,3807,10411,2016,749000,4,196.74,0.3657,1,0.0,0
+"4120-Splitrock-Dr,-Prosper,-TX-75078","4120 Splitrock Dr, Prosper, TX 75078",75078,Single Family,Standard,5,5.5,3834,9540,2022,1189000,5,310.12,0.4019,1,0.0,0
+"3051-Meadow-Dell-Dr,-Prosper,-TX-75078","3051 Meadow Dell Dr, Prosper, TX 75078",75078,Single Family,Standard,3,3.5,2821,7841,2021,699990,216,248.14,0.3598,1,0.0,0
+"3181-Brookhollow-Ct,-Prosper,-TX-75078","3181 Brookhollow Ct, Prosper, TX 75078",75078,Single Family,Standard,5,6,5908,104849,2015,2950000,241,499.32,0.0563,1,0.0,0
+"2801-Meadow-Ridge-Dr,-Prosper,-TX-75078","2801 Meadow Ridge Dr, Prosper, TX 75078",75078,Single Family,Standard,5,3.5,3941,8146,2010,674900,244,171.25,0.4838,1,0.0,0

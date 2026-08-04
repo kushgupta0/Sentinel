@@ -50,8 +50,9 @@ col1.metric("Listings scored", len(scored))
 col2.metric("Zip codes", scored["zipCode"].nunique())
 col3.metric("Flagged as outliers", len(flagged) if flagged is not None else 0)
 
-tab1, tab2, tab3, tab4 = st.tabs(
-    ["Ranked", "Model residuals", "Flagged", "Limitations"]
+tab1, tab2, tab3, tab5, tab4 = st.tabs(
+    ["Ranked", "Model residuals", "Flagged", "Across markets",
+     "Limitations"]
 )
 
 with tab1:
@@ -171,6 +172,57 @@ with tab3:
         )
         st.dataframe(flagged, use_container_width=True, hide_index=True)
 
+with tab5:
+    st.subheader("How the markets differ")
+    st.caption(
+        "Same code, six markets. The model fits each one separately, "
+        "and what drives price is not the same everywhere."
+    )
+
+    rows = []
+    for mk in markets:
+        d = load(mk, "clean")
+        r = load(mk, "residual")
+        if d is None or r is None:
+            continue
+        rows.append({
+            "Market": mk.title(),
+            "Listings": len(d),
+            "Zips": d["zipCode"].nunique(),
+            "Median price": f"${d['price'].median():,.0f}",
+            "Median sqft": f"{d['squareFootage'].median():,.0f}",
+            "Median year": int(d["yearBuilt"].median()),
+            "Median abs residual": f"{r['residualPct'].abs().median():.1f}%",
+        })
+
+    st.dataframe(
+        pd.DataFrame(rows), use_container_width=True, hide_index=True
+    )
+
+    st.markdown("""
+**Lot size is the clearest cross-market finding.** Adding it to the
+model improves held-out fit by 0.003 in Lubbock, where it is rejected
+as noise, and by 0.108 in Prosper. The coefficient tracks how built
+out each market is: land carries a premium where there is no more of
+it, and almost none where the city can expand in any direction.
+
+**Age behaves differently in new markets.** The discount per year of
+age is 0.68% in Lubbock, where the stock spans 1929 to 2023, and
+0.05% in Celina, where the median house is five years old. With no
+age variation there is nothing for the term to explain.
+
+**New construction does not distort the ranking**, even where it is
+half the market. In Anna it is 52% of listings but only 20% of the
+top 50, with a median rank in the bottom 40%. Builders price to the
+market, so the model correctly reads these as fairly priced.
+
+**Condos do distort it, badly.** Their reported lot size is the
+shared parcel rather than the unit's land. Frisco condos report a
+median lot of 175,242 square feet, roughly four acres each. Excluding
+them cut cross-validation variance three to four fold and revealed
+that Frisco's true lot coefficient was 50% higher than measured.
+""")
+
 with tab4:
     st.subheader("What this tool cannot do")
     st.markdown("""
@@ -201,6 +253,7 @@ listings across 3 zips. No parameter choice makes that modelable.
 
 st.divider()
 st.caption(
-    "github.com/kushgupta0/Sentinel  ·  Data from RentCast, "
-    "captured 2026-08-02.  ·  Macro context from FRED."
+    "github.com/kushgupta0/Sentinel  ·  Data from RentCast, captured "
+    "2026-08-02 (Lubbock, Frisco) and 2026-08-04 (Anna, Celina, "
+    "Prosper, Arlington).  ·  Macro context from FRED."
 )

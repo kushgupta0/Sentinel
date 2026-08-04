@@ -6,6 +6,13 @@ from collections import defaultdict
 PROCESSED_DIR = "data/processed"
 DEFAULT_MARKET = "lubbock"
 
+# Condos are excluded, matching model.py. Their reported lot size is
+# the shared parcel rather than the unit's land, and they carry
+# monthly assessments the data does not expose. Townhouses are kept:
+# their price per square foot tracks single family within a few
+# percent across all six markets.
+EXCLUDE_TYPES = {"Condo"}
+
 MIN_GROUP_SIZE = 5
 OUTLIER_FLOOR = 0.60  # ppsf below this share of zip median = suspect
 
@@ -198,6 +205,12 @@ def main():
 
     print(f"Market: {market}")
     rows = load(market)
+
+    before = len(rows)
+    rows = [r for r in rows if r.get("propertyType") not in EXCLUDE_TYPES]
+    n_excluded = before - len(rows)
+    if n_excluded:
+        print(f"Excluded {n_excluded} condos")
     print(f"Loaded {len(rows)} listings")
 
     row_groups, all_flagged, thin = build_groups(rows)

@@ -1,0 +1,8 @@
+formattedAddress,zipCode,price,squareFootage,pricePerSqft,yearBuilt,daysOnMarket,flagReason
+"1021 English Ivy Dr, Prosper, TX 75078",75078,410000.0,2946.0,139.17,2007.0,47.0,ppsf 139 below floor 154 (zip median 257)
+"5501 Peregine Ln, Prosper, TX 75078",75078,409900.0,2860.0,143.32,2019.0,69.0,ppsf 143 below floor 154 (zip median 257)
+"5611 Coventry Dr, Prosper, TX 75078",75078,424900.0,2928.0,145.12,2014.0,40.0,ppsf 145 below floor 154 (zip median 257)
+"1081 Barrington Dr, Prosper, TX 75078",75078,390000.0,2679.0,145.58,2009.0,98.0,ppsf 146 below floor 154 (zip median 257)
+"105 E 3rd St, Prosper, TX 75078",75078,199000.0,1352.0,147.19,1946.0,41.0,ppsf 147 below floor 154 (zip median 257)
+"5650 Lincolnwood Dr, Prosper, TX 75078",75078,336000.0,2263.0,148.48,2009.0,12.0,ppsf 148 below floor 154 (zip median 257)
+"280 Dave Trl, Prosper, TX 75078",75078,599000.0,3930.0,152.42,2006.0,84.0,ppsf 152 below floor 154 (zip median 257)
