@@ -26,6 +26,7 @@ FIELDS = [
     "formattedAddress",
     "zipCode",
     "propertyType",
+    "listingType",
     "bedrooms",
     "bathrooms",
     "squareFootage",
