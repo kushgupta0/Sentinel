@@ -75,6 +75,17 @@ moves the ranking.
   structure is incidental or slated for teardown, the model is
   measuring the wrong thing. An age penalty is actively wrong where
   age carries a premium.
+- **Distressed sales are only partially identifiable.** The data
+  source labels short sales (3 of 500 in Lubbock, 0 in Frisco) but
+  not foreclosures or REO. A verified foreclosure in the Frisco
+  sample was labeled "Standard" and ranked first by residual. These
+  sell below characteristic-implied value for reasons unrelated to
+  seller motivation and will appear as false positives.
+- **New construction is labeled and does not distort rankings.**
+  It comprised 13.5% of the Lubbock sample with a median rank of
+  207 of 282, and 3.8% of Frisco with a median rank of 324 of 469.
+  Builder pricing tracks the market closely, so these listings
+  correctly score as fairly priced.
 
 ## Stack
 
