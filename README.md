@@ -1,95 +1,106 @@
-# SENTINEL
+## Two ranking methods
 
-A decision-support tool for real estate listings. Pulls active listings
-for a target market, scores each against comparable nearby properties,
-and ranks them so a human can prioritize which to investigate further.
+**Percentile composite.** Each listing is ranked 0-100 within its zip
+on price per square foot, days on market, and price cut history, then
+weighted. Percentile rather than z-score because price distributions
+are right-skewed and one high-end listing distorts a mean.
 
-It does not predict sale price or profit. It narrows a few hundred
-listings down to a shortlist worth a closer look, using only publicly
-available data.
+Weights depend on an assumed market regime. Set to soft based on FRED
+MSACSR (months supply of new houses), which read 9.30 in June 2026
+against a conventional buyers-market threshold of 7.0. Run
+`python score.py <market> --compare` to see how much the choice moves
+the ranking: top-10 overlap is 7 of 10 across regimes in both Lubbock
+and Frisco.
 
-## Pipeline
+**Log-linear hedonic regression.** Predicts log price from square
+footage, age, lot size, and zip, then ranks by residual. Log because
+the untransformed model produced negative predicted prices for small
+older homes. Specifications are compared on cross-validated R² and the
+simplest is kept unless a richer one beats it by more than 0.02.
 
-1. `ingest.py` — pulls active listings from RentCast, saves a dated
-   raw snapshot. One API call per run.
-2. `transform.py` — filters to usable residential listings, derives
-   price per square foot and price movement history.
-3. `score.py` — groups by zip, flags price outliers, ranks the
-   remainder on a weighted composite.
-4. `compare.py` — diffs two dated snapshots to extract outcomes.
+Where the two methods agree, the signal is stronger than either alone.
 
-## Scoring model
+## Findings across six markets
 
-Each factor is converted to a percentile rank within the listing's zip
-code, then weighted. Percentile rather than z-score because price
-distributions are right-skewed and a single high-end outlier would
-distort a mean-based measure.
+| Market | Listings | Zips | Median price | CV R² | Median abs residual |
+|---|---|---|---|---|---|
+| Lubbock | 298 | 12 | $205K | 0.792 | 13.8% |
+| Frisco | 471 | 4 | $700K | 0.791 | 11.4% |
+| Anna | 456 | 1 | $374K | 0.644 | 7.1% |
+| Celina | 475 | 3 | $549K | 0.809 | 9.5% |
+| Prosper | 483 | 1 | $872K | 0.843 | 10.1% |
+| Arlington | 456 | 13 | $380K | 0.834 | 7.6% |
 
-Weights depend on an assumed market regime:
+**Lot size matters where land is scarce.** Adding it improves held-out
+fit by 0.003 in Lubbock, where it is rejected as noise, and by 0.108 in
+Prosper. The coefficient tracks how built out each market is: +15% per
+log unit in Anna, +27% in Frisco, +40% in Prosper. Lubbock can expand
+in any direction; Prosper cannot.
 
-- Soft market: ppsf 45%, days on market 35%, price cut 20%
-- Hot market:  ppsf 70%, days on market 20%, price cut 10%
+**Condos corrupt the model and were excluded.** Their reported lot size
+is the shared parcel rather than the unit's land. Frisco condos report
+a median lot of 175,242 square feet, roughly four acres each. Before
+exclusion they held 4 of Arlington's top 10 underpriced slots, and two
+adjacent units in one building landed at opposite ends of the ranking.
+Removing them cut cross-validation standard deviation from 0.046 to
+0.011 in Arlington and revealed Frisco's true lot coefficient was 50%
+higher than measured.
 
-Seller-motivation signals carry more weight in a soft market, where
-listings that sit are more likely to reflect seller circumstance than
-scarcity of buyers.
+**Townhouses were kept**, on evidence rather than assumption. Their
+price per square foot tracks single family within a few percent in all
+six markets (Arlington 191 vs 177, Lubbock 127 vs 129), and they report
+genuine smaller lots the model already handles.
 
-Run `python score.py --compare` to see how much the regime choice
-moves the ranking.
+**New construction does not distort the ranking**, even at 52% of the
+market. In Anna it is 52% of listings but 20% of the top 50, with a
+median rank of 282 of 456. Builders price to the market, so the model
+correctly reads these as fairly priced.
 
-## Filters
+**Bathrooms adds nothing beyond square footage.** It correlates with
+area at 0.78 to 0.87 and changes cross-validated R² by -0.002 in
+Lubbock. Bedrooms was dropped outright after producing a -$42,830
+coefficient, a collinearity artifact offsetting an inflated area term.
 
-- Listings over 365 days on market are excluded as stale.
-- Land and listings missing square footage are excluded.
-- Zips with fewer than 5 comparable listings are excluded; a median
-  computed from three properties is not meaningful.
-- Listings priced below 60% of their zip median per square foot are
-  flagged and set aside rather than ranked. Extreme relative
-  cheapness usually reflects something the data does not capture.
-  These are written to a separate file so exclusions stay auditable.
+## Limitations
 
-## Known limitations
+**No ground truth.** No listing in this data has sold. The model is fit
+to asking prices, so it learns what sellers request, not what buyers
+pay. Weights are assumptions rather than fitted parameters and accuracy
+is untested. `compare.py` exists to address this; the first outcome
+comparison is scheduled for October 2026, sixty days after the baseline.
 
-- **No ground truth.** No listing outcomes have been observed yet, so
-  the weights are assumptions rather than fitted parameters and the
-  model's accuracy is untested. `compare.py` exists to address this.
-- **Zip is a coarse peer group.** Zip codes are mail routes. A single
-  zip can span multiple submarkets and build eras.
-- **Price per square foot favors larger homes.** Fixed costs (kitchen,
-  HVAC, lot) are spread over more square footage in a large house, so
-  smaller homes carry a structurally higher ppsf.
-- **Motivation signals are proxies.** Days on market and price cuts
-  are consistent with a motivated seller, but also with a bad layout,
-  a poor location, or a condition problem the listing does not show.
-- **Missing variables.** Condition, street quality, school zone, and
-  renovation history are not in the data and are not inferable from it.
-  **Requires inventory volume.** The method needs enough active
-  listings per zip to form meaningful peer groups and estimate
-  neighborhood effects. Highland Park, TX returned 32 total active
-  listings across 3 zips, with a price range from $395K to $21.5M.
-  No parameter choice makes that modelable. Small, exclusive, or
-  low-turnover markets fall outside the tool's domain.
-- **Assumes structure drives price.** Size and age are the primary
-  inputs, which holds where the house is the asset. In markets where
-  buyers are primarily purchasing land, scarcity, or access, and the
-  structure is incidental or slated for teardown, the model is
-  measuring the wrong thing. An age penalty is actively wrong where
-  age carries a premium.
-- **Distressed sales are only partially identifiable.** The data
-  source labels short sales (3 of 500 in Lubbock, 0 in Frisco) but
-  not foreclosures or REO. A verified foreclosure in the Frisco
-  sample was labeled "Standard" and ranked first by residual. These
-  sell below characteristic-implied value for reasons unrelated to
-  seller motivation and will appear as false positives.
-- **New construction is labeled and does not distort rankings.**
-  It comprised 13.5% of the Lubbock sample with a median rank of
-  207 of 282, and 3.8% of Frisco with a median rank of 324 of 469.
-  Builder pricing tracks the market closely, so these listings
-  correctly score as fairly priced.
+**Sale prices are unavailable.** Texas is a non-disclosure state and
+the data source records only listing events, so the eventual outcome
+variable is binary: the listing sold or was withdrawn.
+
+**Condition is invisible.** Roof, foundation, layout, and renovation
+history are not in the data. A listing priced far below its peers is
+usually cheap for a reason the listing does not state. Listings under
+60% of their zip median per square foot are set aside rather than
+ranked; every one caught in Lubbock was built between 1929 and 1959.
+
+**Distressed sales are only partially identifiable.** The source labels
+short sales but not foreclosures or REO. A verified foreclosure in the
+Frisco sample was labeled Standard and ranked first by residual.
+
+**Property type labels are unreliable for attached units.** After
+excluding condos, one Arlington listing typed as Townhouse is an
+apartment by address.
+
+**Zip is a coarse peer group.** Zip codes are mail routes. Anna and
+Prosper have one each, so the percentile ranking has no group finer
+than the whole city and the regression has no location term.
+
+**Structure is assumed to be the asset.** Size, age, and lot drive the
+model. Where buyers are purchasing land, scarcity, or access and the
+structure is incidental, the age penalty has the wrong sign entirely.
+
+**Requires inventory volume.** Highland Park, TX returned 32 active
+listings across 3 zips, priced from $395K to $21.5M. No parameter
+choice makes that modelable.
 
 ## Stack
 
-Python 3.9, RentCast API. No external dependencies beyond `requests`
-and `python-dotenv`.
+Python, RentCast API, FRED API, scikit-learn, Streamlit.
 
 ## Setup
