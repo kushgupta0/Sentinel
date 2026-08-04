@@ -73,7 +73,7 @@ with tab1:
 
     st.dataframe(
         scored[cols].head(n),
-        use_container_width=True,
+        width='stretch',
         hide_index=True,
     )
 
@@ -138,7 +138,7 @@ with tab2:
 
         st.altair_chart(
             (line + dots).interactive().properties(height=450),
-            use_container_width=True,
+            width='stretch',
         )
 
         st.caption(
@@ -156,7 +156,7 @@ with tab2:
         rcols = [c for c in rcols if c in residual.columns]
         st.dataframe(
             residual[rcols].head(n2),
-            use_container_width=True,
+            width='stretch',
             hide_index=True,
         )
 
@@ -170,7 +170,7 @@ with tab3:
             "foot. Extreme relative discount usually reflects something "
             "the data does not capture. Set aside rather than deleted."
         )
-        st.dataframe(flagged, use_container_width=True, hide_index=True)
+        st.dataframe(flagged, width='stretch', hide_index=True)
 
 with tab5:
     st.subheader("How the markets differ")
@@ -196,7 +196,7 @@ with tab5:
         })
 
     st.dataframe(
-        pd.DataFrame(rows), use_container_width=True, hide_index=True
+        pd.DataFrame(rows), width='stretch', hide_index=True
     )
 
     st.markdown("""
