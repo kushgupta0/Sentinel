@@ -29,6 +29,7 @@ FIELDS = [
     "bedrooms",
     "bathrooms",
     "squareFootage",
+    "lotSize",
     "yearBuilt",
     "price",
     "daysOnMarket",
@@ -36,6 +37,7 @@ FIELDS = [
 
 DERIVED = [
     "pricePerSqft",
+    "lotRatio",
     "priceEventCount",
     "totalPriceChangePct",
     "priceCuts",
@@ -95,6 +97,15 @@ def parse_history(listing):
 def flatten(listing):
     row = {field: listing.get(field) for field in FIELDS}
     row["pricePerSqft"] = round(row["price"] / row["squareFootage"], 2)
+
+    # Building footprint relative to lot. Low ratio means a large
+    # lot for the house, which is where land value shows up.
+    lot = row.get("lotSize")
+    if lot:
+        row["lotRatio"] = round(row["squareFootage"] / lot, 4)
+    else:
+        row["lotRatio"] = ""
+
     row.update(parse_history(listing))
     return row
 

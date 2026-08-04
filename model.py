@@ -27,9 +27,14 @@ MARKETS = {
     "frisco": {"max_sqft": 6500, "max_price": 2_000_000},
 }
 
+# Lot size is right-skewed: median around 7,500 sqft in both markets
+# but with rural parcels up to 20 acres. Entered as a log so a
+# quarter-acre lot and a 20-acre parcel sit on a comparable scale.
 SPECS = {
     "area_only": ["squareFootage", "age"],
     "with_baths": ["squareFootage", "bathrooms", "age"],
+    "with_lot": ["squareFootage", "age", "logLot"],
+    "full": ["squareFootage", "bathrooms", "age", "logLot"],
 }
 
 
@@ -39,6 +44,9 @@ def load(market, config):
     df = df.dropna(subset=["price", "squareFootage", "yearBuilt", "bathrooms"])
     df = df[(df["yearBuilt"] > 0) & (df["price"] > 0)]
     df["age"] = CURRENT_YEAR - df["yearBuilt"]
+
+    df = df[df["lotSize"].notna() & (df["lotSize"] > 0)]
+    df["logLot"] = np.log(df["lotSize"])
 
     before = len(df)
     df = df[
@@ -111,19 +119,44 @@ def fit(df, features):
 
 
 def compare_specs(df):
+    """Fit each candidate specification and report held-out performance.
+
+    Selection prefers the simplest specification unless a richer one
+    beats it by more than the noise band. Picking the maximum when the
+    difference sits inside the cross-validation standard deviation is
+    not a real selection.
+    """
     print("\nSpecification comparison:")
     results = {}
     for name, features in SPECS.items():
         _, _, r2, cv_mean, cv_std = fit(df, features)
-        results[name] = cv_mean
+        results[name] = (cv_mean, cv_std, len(features))
         print(f"  {name:>12}: in-sample {r2:.3f}, "
               f"CV {cv_mean:.3f} (+/- {cv_std:.3f})  {features}")
 
-    gap = results["with_baths"] - results["area_only"]
-    print(f"\n  Bathrooms adds {gap:+.3f} to CV R-squared.")
-    if abs(gap) < 0.02:
-        print("  Negligible, which suggests it stands in for size.")
-    return max(results, key=results.get)
+    baseline = "area_only"
+    base_cv = results[baseline][0]
+
+    print(f"\n  Change in CV R-squared vs {baseline}:")
+    for name, (cv_mean, cv_std, _) in results.items():
+        if name == baseline:
+            continue
+        print(f"    {name:>12}: {cv_mean - base_cv:+.3f}")
+
+    MEANINGFUL = 0.02
+    best = baseline
+    best_cv = base_cv
+    for name, (cv_mean, _, n_feat) in results.items():
+        if cv_mean > best_cv + MEANINGFUL:
+            best, best_cv = name, cv_mean
+
+    if best == baseline:
+        print(f"\n  No specification beats {baseline} by more than "
+              f"{MEANINGFUL:.2f}. Keeping the simplest.")
+    else:
+        print(f"\n  {best} clears the {MEANINGFUL:.2f} threshold.")
+
+    return best
 
 
 def report_coefficients(model, columns, features):
