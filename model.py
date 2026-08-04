@@ -22,9 +22,27 @@ DEFAULT_MARKET = "lubbock"
 MIN_ZIP_COUNT = 5
 CURRENT_YEAR = 2026
 
+# Caps are set from each market's own distribution to trim roughly
+# the top few percent. The log specification compounds, so listings
+# far outside the range where training data is dense produce absurd
+# estimates. One market's thresholds do not transfer to another:
+# Lubbock's median home is about $205K, Prosper's is $949K.
 MARKETS = {
     "lubbock": {"max_sqft": 4000, "max_price": 800_000},
     "frisco": {"max_sqft": 6500, "max_price": 2_000_000},
+    "anna": {"max_sqft": 4500, "max_price": 900_000},
+    "celina": {"max_sqft": 6000, "max_price": 1_500_000},
+    "prosper": {"max_sqft": 6500, "max_price": 2_000_000},
+    # Arlington is the only market with meaningful condo inventory
+    # (58 of 454, 13%). Condos carry monthly assessments and shared
+    # land that this model does not represent, and they occupied 4
+    # of the top 10 underpriced slots before exclusion. Two adjacent
+    # units in one building landed at opposite ends of the ranking.
+    "arlington": {
+        "max_sqft": 4500,
+        "max_price": 900_000,
+        "exclude_types": ["Condo"],
+    },
 }
 
 # Lot size is right-skewed: median around 7,500 sqft in both markets
@@ -48,6 +66,13 @@ def load(market, config):
     df = df[df["lotSize"].notna() & (df["lotSize"] > 0)]
     df["logLot"] = np.log(df["lotSize"])
 
+    excluded_types = config.get("exclude_types", [])
+    n_excluded = 0
+    if excluded_types:
+        before_types = len(df)
+        df = df[~df["propertyType"].isin(excluded_types)]
+        n_excluded = before_types - len(df)
+
     before = len(df)
     df = df[
         (df["squareFootage"] <= config["max_sqft"])
@@ -60,8 +85,16 @@ def load(market, config):
     thin = len(df) - len(df[df["zipCode"].isin(keep)])
     df = df[df["zipCode"].isin(keep)].copy()
 
+    n_zips = df["zipCode"].nunique()
     print(f"Market: {market}")
-    print(f"Modeling {len(df)} listings across {df['zipCode'].nunique()} zips")
+    print(f"Modeling {len(df)} listings across {n_zips} zips")
+    if n_zips < 2:
+        print("  Warning: single zip. No location term in the model,\n"
+              "  and the percentile ranking has no peer group finer\n"
+              "  than the whole city.")
+    if n_excluded:
+        print(f"Excluded {n_excluded} by property type "
+              f"({', '.join(excluded_types)})")
     if capped:
         print(f"Excluded {capped} outside range "
               f"(> {config['max_sqft']:,} sqft or > ${config['max_price']:,})")
