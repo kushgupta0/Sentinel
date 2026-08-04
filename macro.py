@@ -1,12 +1,7 @@
-"""Capture macroeconomic context alongside each listing snapshot.
+"""Capture macro context alongside each snapshot.
 
-These series are national level, so they are constant across every
-listing in a market and cannot affect the ranking of houses against
-each other. They are stored as snapshot metadata, not model features.
-
-The purpose is interpretability of the October comparison. If sale
-rates differ between two snapshots, this distinguishes "the model
-worked" from "the market moved."
+National series, constant across listings, so not model features.
+Stored as metadata so snapshot comparisons stay interpretable.
 """
 
 import os

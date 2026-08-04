@@ -1,13 +1,6 @@
-"""Residual-based scoring with per-market configuration.
+"""Rank listings by residual against a log-linear hedonic model.
 
-Fits log price against property characteristics, then ranks listings
-by how far below the model estimate they are priced.
-
-Caps are market-specific by necessity. Lubbock's median home is about
-$220k; Frisco's is $725k. Applying one market's thresholds to another
-would exclude ordinary houses rather than genuine outliers. The caps
-exist to keep the model inside the range where training data is dense,
-so they have to be set from each market's own distribution.
+Specification choices and their justification are in the README.
 """
 
 import sys

@@ -1,11 +1,7 @@
 """Clean a raw snapshot into a usable listing table.
 
-Filters out non-residential listings, stale inventory, and rows
-missing the fields the model needs, then derives price per square
+Filters non-residential and stale listings, derives price per square
 foot and price movement history.
-
-Market is passed as an argument so the same pipeline runs against
-any city that has been ingested.
 """
 
 import os

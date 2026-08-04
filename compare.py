@@ -1,9 +1,7 @@
-"""Compare two dated snapshots to extract listing outcomes.
+"""Diff two dated snapshots to extract listing outcomes.
 
-A listing present in an earlier snapshot but absent from a later one
-either sold or was withdrawn. That distinction is the only ground
-truth available without paid data, and it is what makes the scoring
-model testable rather than merely internally consistent.
+A listing present in an earlier snapshot but absent later either sold
+or was withdrawn. That is the only ground truth available here.
 """
 
 import json

@@ -1,9 +1,7 @@
 """Pull active sale listings for a target market and cache them.
 
-The API allowance is small, so this hits RentCast once per run and
-saves the raw response to a dated file. All downstream work reads
-from disk, which means the scoring model can be iterated on
-indefinitely without spending calls.
+API allowance is small, so this hits RentCast once per run and saves
+the raw response. Everything downstream reads from disk.
 """
 
 import os
