@@ -1,6 +1,5 @@
-requests
-python-dotenv
+altair
 pandas
+requests
 scikit-learn
 streamlit
-altair
