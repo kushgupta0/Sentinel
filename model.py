@@ -19,6 +19,19 @@ from sklearn.model_selection import cross_val_score, KFold
 PROCESSED_DIR = "data/processed"
 DEFAULT_MARKET = "lubbock"
 
+# Condos are excluded from every market. Their reported lot size is
+# the shared parcel rather than the unit's land, which makes the
+# field meaningless once lot size is a model feature: Frisco condos
+# report a median lot of 175,242 sqft, roughly four acres per unit.
+# They also carry monthly assessments the model cannot see. Before
+# exclusion they held 4 of Arlington's top 10 underpriced slots.
+#
+# Townhouses are kept. Across all six markets their price per square
+# foot sits within a few percent of single family (Arlington 191 vs
+# 177, Lubbock 127 vs 129), and they report genuine smaller lots
+# that the lot size term already handles.
+EXCLUDE_TYPES = ["Condo"]
+
 MIN_ZIP_COUNT = 5
 CURRENT_YEAR = 2026
 
@@ -33,16 +46,7 @@ MARKETS = {
     "anna": {"max_sqft": 4500, "max_price": 900_000},
     "celina": {"max_sqft": 6000, "max_price": 1_500_000},
     "prosper": {"max_sqft": 6500, "max_price": 2_000_000},
-    # Arlington is the only market with meaningful condo inventory
-    # (58 of 454, 13%). Condos carry monthly assessments and shared
-    # land that this model does not represent, and they occupied 4
-    # of the top 10 underpriced slots before exclusion. Two adjacent
-    # units in one building landed at opposite ends of the ranking.
-    "arlington": {
-        "max_sqft": 4500,
-        "max_price": 900_000,
-        "exclude_types": ["Condo"],
-    },
+    "arlington": {"max_sqft": 4500, "max_price": 900_000},
 }
 
 # Lot size is right-skewed: median around 7,500 sqft in both markets
@@ -66,7 +70,7 @@ def load(market, config):
     df = df[df["lotSize"].notna() & (df["lotSize"] > 0)]
     df["logLot"] = np.log(df["lotSize"])
 
-    excluded_types = config.get("exclude_types", [])
+    excluded_types = config.get("exclude_types", EXCLUDE_TYPES)
     n_excluded = 0
     if excluded_types:
         before_types = len(df)
